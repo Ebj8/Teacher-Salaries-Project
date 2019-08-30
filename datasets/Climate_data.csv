@@ -1,0 +1,1161 @@
+Day,Month,High(°F),Low(°F),Precip.month(inch),Precip.year(inch),Snowmonth(inch),Snowyear(inch),City,State
+1,jan,51.3,25.7,0.04,0.04,0,0,Alamo,Nevada
+2,jan,51.4,25.8,0.04,0.04,0,0,Alamo,Nevada
+3,jan,51.5,25.9,0.08,0.08,0.12,0.12,Alamo,Nevada
+4,jan,51.6,25.9,0.08,0.08,0.12,0.12,Alamo,Nevada
+5,jan,51.7,26,0.12,0.12,0.12,0.12,Alamo,Nevada
+6,jan,51.9,26.1,0.16,0.16,0.12,0.12,Alamo,Nevada
+7,jan,52,26.2,0.16,0.16,0.12,0.12,Alamo,Nevada
+8,jan,52.1,26.3,0.2,0.2,0.2,0.2,Alamo,Nevada
+9,jan,52.3,26.4,0.2,0.2,0.2,0.2,Alamo,Nevada
+10,jan,52.4,26.5,0.24,0.24,0.2,0.2,Alamo,Nevada
+11,jan,52.5,26.6,0.28,0.28,0.2,0.2,Alamo,Nevada
+12,jan,52.7,26.7,0.28,0.28,0.2,0.2,Alamo,Nevada
+13,jan,52.8,26.8,0.31,0.31,0.31,0.31,Alamo,Nevada
+14,jan,53,26.9,0.35,0.35,0.31,0.31,Alamo,Nevada
+15,jan,53.1,26.9,0.35,0.35,0.31,0.31,Alamo,Nevada
+16,jan,53.3,27,0.39,0.39,0.31,0.31,Alamo,Nevada
+17,jan,53.4,27.1,0.43,0.43,0.31,0.31,Alamo,Nevada
+18,jan,53.6,27.2,0.43,0.43,0.39,0.39,Alamo,Nevada
+19,jan,53.7,27.3,0.47,0.47,0.39,0.39,Alamo,Nevada
+20,jan,53.9,27.4,0.51,0.51,0.39,0.39,Alamo,Nevada
+21,jan,54,27.4,0.51,0.51,0.39,0.39,Alamo,Nevada
+22,jan,54.2,27.5,0.55,0.55,0.39,0.39,Alamo,Nevada
+23,jan,54.3,27.6,0.55,0.55,0.51,0.51,Alamo,Nevada
+24,jan,54.4,27.7,0.59,0.59,0.51,0.51,Alamo,Nevada
+25,jan,54.6,27.8,0.59,0.59,0.51,0.51,Alamo,Nevada
+26,jan,54.7,27.9,0.63,0.63,0.51,0.51,Alamo,Nevada
+27,jan,54.9,27.9,0.67,0.67,0.51,0.51,Alamo,Nevada
+28,jan,55,28,0.67,0.67,0.59,0.59,Alamo,Nevada
+29,jan,55.2,28.1,0.71,0.71,0.59,0.59,Alamo,Nevada
+30,jan,55.3,28.2,0.75,0.75,0.59,0.59,Alamo,Nevada
+31,jan,55.5,28.3,0.75,0.75,0.59,0.59,Alamo,Nevada
+1,feb,55.7,28.4,0.04,0.79,0,0.59,Alamo,Nevada
+2,feb,55.8,28.5,0.04,0.79,0,0.59,Alamo,Nevada
+3,feb,56,28.6,0.08,0.83,0,0.59,Alamo,Nevada
+4,feb,56.1,28.7,0.08,0.83,0,0.59,Alamo,Nevada
+5,feb,56.3,28.8,0.12,0.87,0.12,0.71,Alamo,Nevada
+6,feb,56.5,28.9,0.12,0.87,0.12,0.71,Alamo,Nevada
+7,feb,56.6,29,0.16,0.91,0.12,0.71,Alamo,Nevada
+8,feb,56.8,29.2,0.16,0.91,0.12,0.71,Alamo,Nevada
+9,feb,57,29.3,0.2,0.94,0.12,0.71,Alamo,Nevada
+10,feb,57.2,29.4,0.24,0.98,0.12,0.71,Alamo,Nevada
+11,feb,57.4,29.5,0.24,0.98,0.12,0.71,Alamo,Nevada
+12,feb,57.6,29.7,0.28,1.02,0.12,0.71,Alamo,Nevada
+13,feb,57.8,29.8,0.28,1.02,0.12,0.71,Alamo,Nevada
+14,feb,58,30,0.31,1.06,0.12,0.71,Alamo,Nevada
+15,feb,58.2,30.1,0.35,1.1,0.2,0.79,Alamo,Nevada
+16,feb,58.4,30.3,0.35,1.1,0.2,0.79,Alamo,Nevada
+17,feb,58.6,30.5,0.39,1.14,0.2,0.79,Alamo,Nevada
+18,feb,58.8,30.6,0.43,1.18,0.2,0.79,Alamo,Nevada
+19,feb,59,30.8,0.43,1.18,0.2,0.79,Alamo,Nevada
+20,feb,59.3,31,0.47,1.22,0.2,0.79,Alamo,Nevada
+21,feb,59.5,31.2,0.51,1.26,0.2,0.79,Alamo,Nevada
+22,feb,59.7,31.3,0.55,1.3,0.2,0.79,Alamo,Nevada
+23,feb,60,31.5,0.55,1.3,0.2,0.79,Alamo,Nevada
+24,feb,60.2,31.7,0.59,1.34,0.2,0.79,Alamo,Nevada
+25,feb,60.5,31.9,0.59,1.38,0.2,0.79,Alamo,Nevada
+26,feb,60.7,32.1,0.63,1.38,0.2,0.79,Alamo,Nevada
+27,feb,60.9,32.3,0.67,1.42,0.2,0.79,Alamo,Nevada
+28,feb,61.2,32.5,0.67,1.42,0.2,0.79,Alamo,Nevada
+29,feb,61.3,32.6,0,0,0,0,Alamo,Nevada
+1,mar,61.4,32.7,0.04,1.46,0,0.79,Alamo,Nevada
+2,mar,61.7,32.9,0.04,1.5,0,0.79,Alamo,Nevada
+3,mar,61.9,33.1,0.08,1.5,0,0.79,Alamo,Nevada
+4,mar,62.2,33.3,0.12,1.54,0,0.79,Alamo,Nevada
+5,mar,62.4,33.5,0.16,1.57,0,0.79,Alamo,Nevada
+6,mar,62.7,33.7,0.16,1.61,0,0.79,Alamo,Nevada
+7,mar,62.9,33.9,0.2,1.61,0,0.79,Alamo,Nevada
+8,mar,63.2,34.1,0.24,1.65,0,0.79,Alamo,Nevada
+9,mar,63.4,34.3,0.28,1.69,0,0.79,Alamo,Nevada
+10,mar,63.7,34.5,0.28,1.69,0,0.79,Alamo,Nevada
+11,mar,63.9,34.7,0.31,1.73,0,0.79,Alamo,Nevada
+12,mar,64.2,34.9,0.31,1.77,0,0.79,Alamo,Nevada
+13,mar,64.4,35.1,0.35,1.77,0,0.79,Alamo,Nevada
+14,mar,64.7,35.3,0.39,1.81,0,0.79,Alamo,Nevada
+15,mar,64.9,35.4,0.39,1.81,0,0.79,Alamo,Nevada
+16,mar,65.2,35.6,0.43,1.85,0,0.79,Alamo,Nevada
+17,mar,65.4,35.8,0.43,1.85,0,0.79,Alamo,Nevada
+18,mar,65.6,36,0.47,1.89,0,0.79,Alamo,Nevada
+19,mar,65.9,36.2,0.47,1.93,0,0.79,Alamo,Nevada
+20,mar,66.1,36.4,0.51,1.93,0,0.79,Alamo,Nevada
+21,mar,66.3,36.6,0.51,1.97,0,0.79,Alamo,Nevada
+22,mar,66.6,36.7,0.55,1.97,0,0.79,Alamo,Nevada
+23,mar,66.8,36.9,0.55,2.01,0,0.79,Alamo,Nevada
+24,mar,67,37.1,0.59,2.01,0,0.79,Alamo,Nevada
+25,mar,67.2,37.3,0.59,2.05,0,0.79,Alamo,Nevada
+26,mar,67.5,37.5,0.63,2.05,0,0.79,Alamo,Nevada
+27,mar,67.7,37.7,0.67,2.09,0,0.79,Alamo,Nevada
+28,mar,67.9,37.8,0.67,2.09,0,0.79,Alamo,Nevada
+29,mar,68.2,38,0.71,2.13,0,0.79,Alamo,Nevada
+30,mar,68.4,38.2,0.71,2.13,0,0.79,Alamo,Nevada
+31,mar,68.6,38.4,0.75,2.17,0,0.79,Alamo,Nevada
+1,apr,68.8,38.6,0.04,2.17,0,0.79,Alamo,Nevada
+2,apr,69.1,38.8,0.04,2.2,0,0.79,Alamo,Nevada
+3,apr,69.3,39,0.04,2.2,0,0.79,Alamo,Nevada
+4,apr,69.6,39.2,0.08,2.24,0,0.79,Alamo,Nevada
+5,apr,69.8,39.4,0.08,2.24,0,0.79,Alamo,Nevada
+6,apr,70,39.6,0.12,2.28,0,0.79,Alamo,Nevada
+7,apr,70.3,39.8,0.12,2.28,0,0.79,Alamo,Nevada
+8,apr,70.5,40,0.16,2.28,0,0.79,Alamo,Nevada
+9,apr,70.8,40.2,0.16,2.32,0,0.79,Alamo,Nevada
+10,apr,71,40.4,0.2,2.32,0,0.79,Alamo,Nevada
+11,apr,71.3,40.7,0.2,2.36,0,0.79,Alamo,Nevada
+12,apr,71.6,40.9,0.2,2.36,0,0.79,Alamo,Nevada
+13,apr,71.8,41.1,0.24,2.4,0,0.79,Alamo,Nevada
+14,apr,72.1,41.3,0.24,2.4,0,0.79,Alamo,Nevada
+15,apr,72.4,41.6,0.28,2.4,0,0.79,Alamo,Nevada
+16,apr,72.7,41.8,0.28,2.44,0,0.79,Alamo,Nevada
+17,apr,73,42,0.28,2.44,0,0.79,Alamo,Nevada
+18,apr,73.3,42.3,0.31,2.44,0,0.79,Alamo,Nevada
+19,apr,73.6,42.5,0.31,2.48,0,0.79,Alamo,Nevada
+20,apr,73.9,42.8,0.31,2.48,0,0.79,Alamo,Nevada
+21,apr,74.2,43,0.35,2.52,0,0.79,Alamo,Nevada
+22,apr,74.5,43.3,0.35,2.52,0,0.79,Alamo,Nevada
+23,apr,74.8,43.5,0.39,2.56,0,0.79,Alamo,Nevada
+24,apr,75.1,43.8,0.39,2.56,0,0.79,Alamo,Nevada
+25,apr,75.4,44.1,0.39,2.56,0,0.79,Alamo,Nevada
+26,apr,75.8,44.3,0.43,2.6,0,0.79,Alamo,Nevada
+27,apr,76.1,44.6,0.43,2.6,0,0.79,Alamo,Nevada
+28,apr,76.4,44.8,0.43,2.6,0,0.79,Alamo,Nevada
+29,apr,76.8,45.1,0.47,2.64,0,0.79,Alamo,Nevada
+30,apr,77.1,45.4,0.47,2.64,0,0.79,Alamo,Nevada
+1,may,77.5,45.6,0,2.64,0,0.79,Alamo,Nevada
+2,may,77.8,45.9,0.04,2.68,0,0.79,Alamo,Nevada
+3,may,78.1,46.2,0.04,2.68,0,0.79,Alamo,Nevada
+4,may,78.5,46.4,0.04,2.68,0,0.79,Alamo,Nevada
+5,may,78.8,46.7,0.08,2.72,0,0.79,Alamo,Nevada
+6,may,79.2,47,0.08,2.72,0,0.79,Alamo,Nevada
+7,may,79.6,47.2,0.08,2.72,0,0.79,Alamo,Nevada
+8,may,79.9,47.5,0.08,2.72,0,0.79,Alamo,Nevada
+9,may,80.3,47.8,0.12,2.76,0,0.79,Alamo,Nevada
+10,may,80.6,48.1,0.12,2.76,0,0.79,Alamo,Nevada
+11,may,81,48.3,0.12,2.76,0,0.79,Alamo,Nevada
+12,may,81.4,48.6,0.12,2.76,0,0.79,Alamo,Nevada
+13,may,81.7,48.9,0.16,2.8,0,0.79,Alamo,Nevada
+14,may,82.1,49.1,0.16,2.8,0,0.79,Alamo,Nevada
+15,may,82.4,49.4,0.16,2.8,0,0.79,Alamo,Nevada
+16,may,82.8,49.7,0.2,2.83,0,0.79,Alamo,Nevada
+17,may,83.2,49.9,0.2,2.83,0,0.79,Alamo,Nevada
+18,may,83.5,50.2,0.2,2.83,0,0.79,Alamo,Nevada
+19,may,83.9,50.5,0.2,2.83,0,0.79,Alamo,Nevada
+20,may,84.2,50.8,0.24,2.87,0,0.79,Alamo,Nevada
+21,may,84.6,51,0.24,2.87,0,0.79,Alamo,Nevada
+22,may,85,51.3,0.24,2.87,0,0.79,Alamo,Nevada
+23,may,85.3,51.6,0.24,2.87,0,0.79,Alamo,Nevada
+24,may,85.7,51.9,0.28,2.91,0,0.79,Alamo,Nevada
+25,may,86,52.1,0.28,2.91,0,0.79,Alamo,Nevada
+26,may,86.4,52.4,0.28,2.91,0,0.79,Alamo,Nevada
+27,may,86.8,52.7,0.28,2.91,0,0.79,Alamo,Nevada
+28,may,87.1,53,0.31,2.95,0,0.79,Alamo,Nevada
+29,may,87.5,53.3,0.31,2.95,0,0.79,Alamo,Nevada
+30,may,87.8,53.6,0.31,2.95,0,0.79,Alamo,Nevada
+31,may,88.2,53.9,0.31,2.95,0,0.79,Alamo,Nevada
+1,jun,88.5,54.2,0,2.99,0,0.79,Alamo,Nevada
+2,jun,88.9,54.5,0,2.99,0,0.79,Alamo,Nevada
+3,jun,89.2,54.8,0.04,2.99,0,0.79,Alamo,Nevada
+4,jun,89.6,55.1,0.04,2.99,0,0.79,Alamo,Nevada
+5,jun,89.9,55.4,0.04,2.99,0,0.79,Alamo,Nevada
+6,jun,90.3,55.7,0.04,2.99,0,0.79,Alamo,Nevada
+7,jun,90.6,56,0.04,3.03,0,0.79,Alamo,Nevada
+8,jun,91,56.4,0.04,3.03,0,0.79,Alamo,Nevada
+9,jun,91.3,56.7,0.08,3.03,0,0.79,Alamo,Nevada
+10,jun,91.7,57,0.08,3.03,0,0.79,Alamo,Nevada
+11,jun,92,57.3,0.08,3.03,0,0.79,Alamo,Nevada
+12,jun,92.3,57.6,0.08,3.03,0,0.79,Alamo,Nevada
+13,jun,92.7,58,0.08,3.03,0,0.79,Alamo,Nevada
+14,jun,93,58.3,0.08,3.03,0,0.79,Alamo,Nevada
+15,jun,93.3,58.6,0.08,3.03,0,0.79,Alamo,Nevada
+16,jun,93.6,58.9,0.08,3.03,0,0.79,Alamo,Nevada
+17,jun,93.9,59.2,0.08,3.03,0,0.79,Alamo,Nevada
+18,jun,94.3,59.6,0.08,3.07,0,0.79,Alamo,Nevada
+19,jun,94.6,59.9,0.08,3.07,0,0.79,Alamo,Nevada
+20,jun,94.9,60.2,0.08,3.07,0,0.79,Alamo,Nevada
+21,jun,95.1,60.5,0.08,3.07,0,0.79,Alamo,Nevada
+22,jun,95.4,60.8,0.08,3.07,0,0.79,Alamo,Nevada
+23,jun,95.7,61.1,0.12,3.07,0,0.79,Alamo,Nevada
+24,jun,96,61.4,0.12,3.07,0,0.79,Alamo,Nevada
+25,jun,96.2,61.6,0.12,3.07,0,0.79,Alamo,Nevada
+26,jun,96.5,61.9,0.12,3.07,0,0.79,Alamo,Nevada
+27,jun,96.7,62.2,0.12,3.07,0,0.79,Alamo,Nevada
+28,jun,97,62.4,0.12,3.07,0,0.79,Alamo,Nevada
+29,jun,97.2,62.7,0.12,3.07,0,0.79,Alamo,Nevada
+30,jun,97.4,62.9,0.12,3.07,0,0.79,Alamo,Nevada
+1,jul,97.6,63.2,0,3.07,0,0.79,Alamo,Nevada
+2,jul,97.8,63.4,0,3.07,0,0.79,Alamo,Nevada
+3,jul,98,63.6,0.04,3.11,0,0.79,Alamo,Nevada
+4,jul,98.2,63.8,0.04,3.11,0,0.79,Alamo,Nevada
+5,jul,98.4,64,0.04,3.11,0,0.79,Alamo,Nevada
+6,jul,98.6,64.2,0.04,3.11,0,0.79,Alamo,Nevada
+7,jul,98.7,64.3,0.04,3.15,0,0.79,Alamo,Nevada
+8,jul,98.8,64.5,0.08,3.15,0,0.79,Alamo,Nevada
+9,jul,99,64.6,0.08,3.15,0,0.79,Alamo,Nevada
+10,jul,99.1,64.8,0.08,3.19,0,0.79,Alamo,Nevada
+11,jul,99.2,64.9,0.12,3.19,0,0.79,Alamo,Nevada
+12,jul,99.3,65,0.12,3.19,0,0.79,Alamo,Nevada
+13,jul,99.4,65.1,0.12,3.23,0,0.79,Alamo,Nevada
+14,jul,99.5,65.2,0.16,3.23,0,0.79,Alamo,Nevada
+15,jul,99.5,65.2,0.16,3.23,0,0.79,Alamo,Nevada
+16,jul,99.6,65.3,0.2,3.27,0,0.79,Alamo,Nevada
+17,jul,99.6,65.4,0.2,3.27,0,0.79,Alamo,Nevada
+18,jul,99.7,65.4,0.24,3.31,0,0.79,Alamo,Nevada
+19,jul,99.7,65.4,0.24,3.31,0,0.79,Alamo,Nevada
+20,jul,99.7,65.5,0.28,3.35,0,0.79,Alamo,Nevada
+21,jul,99.7,65.5,0.28,3.35,0,0.79,Alamo,Nevada
+22,jul,99.7,65.5,0.28,3.39,0,0.79,Alamo,Nevada
+23,jul,99.7,65.5,0.31,3.39,0,0.79,Alamo,Nevada
+24,jul,99.7,65.5,0.31,3.43,0,0.79,Alamo,Nevada
+25,jul,99.7,65.5,0.35,3.43,0,0.79,Alamo,Nevada
+26,jul,99.7,65.4,0.35,3.46,0,0.79,Alamo,Nevada
+27,jul,99.6,65.4,0.39,3.46,0,0.79,Alamo,Nevada
+28,jul,99.6,65.4,0.39,3.5,0,0.79,Alamo,Nevada
+29,jul,99.5,65.3,0.43,3.5,0,0.79,Alamo,Nevada
+30,jul,99.5,65.3,0.47,3.54,0,0.79,Alamo,Nevada
+31,jul,99.4,65.2,0.47,3.54,0,0.79,Alamo,Nevada
+1,aug,99.4,65.1,0,3.58,0,0.79,Alamo,Nevada
+2,aug,99.3,65.1,0.04,3.58,0,0.79,Alamo,Nevada
+3,aug,99.2,65,0.04,3.62,0,0.79,Alamo,Nevada
+4,aug,99.1,64.9,0.08,3.62,0,0.79,Alamo,Nevada
+5,aug,99.1,64.8,0.08,3.66,0,0.79,Alamo,Nevada
+6,aug,99,64.7,0.12,3.66,0,0.79,Alamo,Nevada
+7,aug,98.9,64.6,0.12,3.7,0,0.79,Alamo,Nevada
+8,aug,98.8,64.5,0.16,3.7,0,0.79,Alamo,Nevada
+9,aug,98.7,64.4,0.16,3.74,0,0.79,Alamo,Nevada
+10,aug,98.6,64.3,0.2,3.74,0,0.79,Alamo,Nevada
+11,aug,98.5,64.2,0.2,3.78,0,0.79,Alamo,Nevada
+12,aug,98.3,64.1,0.24,3.78,0,0.79,Alamo,Nevada
+13,aug,98.2,64,0.24,3.82,0,0.79,Alamo,Nevada
+14,aug,98.1,63.8,0.28,3.82,0,0.79,Alamo,Nevada
+15,aug,98,63.7,0.28,3.86,0,0.79,Alamo,Nevada
+16,aug,97.8,63.6,0.31,3.86,0,0.79,Alamo,Nevada
+17,aug,97.7,63.4,0.31,3.9,0,0.79,Alamo,Nevada
+18,aug,97.5,63.3,0.35,3.9,0,0.79,Alamo,Nevada
+19,aug,97.4,63.1,0.35,3.94,0,0.79,Alamo,Nevada
+20,aug,97.2,62.9,0.39,3.94,0,0.79,Alamo,Nevada
+21,aug,97.1,62.7,0.39,3.98,0,0.79,Alamo,Nevada
+22,aug,96.9,62.6,0.43,3.98,0,0.79,Alamo,Nevada
+23,aug,96.7,62.4,0.47,4.02,0,0.79,Alamo,Nevada
+24,aug,96.5,62.2,0.47,4.06,0,0.79,Alamo,Nevada
+25,aug,96.3,62,0.51,4.06,0,0.79,Alamo,Nevada
+26,aug,96.1,61.8,0.51,4.09,0,0.79,Alamo,Nevada
+27,aug,95.9,61.5,0.55,4.09,0,0.79,Alamo,Nevada
+28,aug,95.7,61.3,0.55,4.13,0,0.79,Alamo,Nevada
+29,aug,95.5,61.1,0.59,4.13,0,0.79,Alamo,Nevada
+30,aug,95.2,60.8,0.59,4.17,0,0.79,Alamo,Nevada
+31,aug,95,60.5,0.63,4.17,0,0.79,Alamo,Nevada
+1,sep,94.7,60.3,0.04,4.21,0,0.79,Alamo,Nevada
+2,sep,94.5,60,0.04,4.21,0,0.79,Alamo,Nevada
+3,sep,94.2,59.7,0.04,4.21,0,0.79,Alamo,Nevada
+4,sep,93.9,59.4,0.04,4.21,0,0.79,Alamo,Nevada
+5,sep,93.6,59.1,0.08,4.25,0,0.79,Alamo,Nevada
+6,sep,93.3,58.8,0.08,4.25,0,0.79,Alamo,Nevada
+7,sep,93,58.4,0.08,4.25,0,0.79,Alamo,Nevada
+8,sep,92.7,58.1,0.12,4.29,0,0.79,Alamo,Nevada
+9,sep,92.4,57.7,0.12,4.29,0,0.79,Alamo,Nevada
+10,sep,92,57.4,0.12,4.29,0,0.79,Alamo,Nevada
+11,sep,91.7,57,0.12,4.29,0,0.79,Alamo,Nevada
+12,sep,91.3,56.6,0.16,4.33,0,0.79,Alamo,Nevada
+13,sep,91,56.3,0.16,4.33,0,0.79,Alamo,Nevada
+14,sep,90.6,55.9,0.16,4.33,0,0.79,Alamo,Nevada
+15,sep,90.2,55.5,0.16,4.33,0,0.79,Alamo,Nevada
+16,sep,89.8,55.1,0.2,4.37,0,0.79,Alamo,Nevada
+17,sep,89.5,54.7,0.2,4.37,0,0.79,Alamo,Nevada
+18,sep,89.1,54.3,0.2,4.41,0,0.79,Alamo,Nevada
+19,sep,88.7,53.9,0.24,4.41,0,0.79,Alamo,Nevada
+20,sep,88.3,53.5,0.24,4.41,0,0.79,Alamo,Nevada
+21,sep,87.9,53,0.24,4.41,0,0.79,Alamo,Nevada
+22,sep,87.4,52.6,0.24,4.45,0,0.79,Alamo,Nevada
+23,sep,87,52.2,0.28,4.45,0,0.79,Alamo,Nevada
+24,sep,86.6,51.8,0.28,4.45,0,0.79,Alamo,Nevada
+25,sep,86.2,51.4,0.28,4.45,0,0.79,Alamo,Nevada
+26,sep,85.7,50.9,0.28,4.49,0,0.79,Alamo,Nevada
+27,sep,85.3,50.5,0.31,4.49,0,0.79,Alamo,Nevada
+28,sep,84.9,50.1,0.31,4.49,0,0.79,Alamo,Nevada
+29,sep,84.5,49.7,0.31,4.49,0,0.79,Alamo,Nevada
+30,sep,84,49.3,0.31,4.53,0,0.79,Alamo,Nevada
+1,oct,83.6,48.9,0,4.53,0,0.79,Alamo,Nevada
+2,oct,83.2,48.5,0.04,4.53,0,0.79,Alamo,Nevada
+3,oct,82.7,48.1,0.04,4.53,0,0.79,Alamo,Nevada
+4,oct,82.3,47.7,0.04,4.57,0,0.79,Alamo,Nevada
+5,oct,81.9,47.3,0.04,4.57,0,0.79,Alamo,Nevada
+6,oct,81.4,46.9,0.08,4.57,0,0.79,Alamo,Nevada
+7,oct,81,46.5,0.08,4.61,0,0.79,Alamo,Nevada
+8,oct,80.6,46.2,0.08,4.61,0,0.79,Alamo,Nevada
+9,oct,80.1,45.8,0.12,4.61,0,0.79,Alamo,Nevada
+10,oct,79.7,45.4,0.12,4.61,0,0.79,Alamo,Nevada
+11,oct,79.3,45.1,0.12,4.65,0,0.79,Alamo,Nevada
+12,oct,78.9,44.7,0.16,4.65,0,0.79,Alamo,Nevada
+13,oct,78.4,44.4,0.16,4.65,0,0.79,Alamo,Nevada
+14,oct,78,44,0.16,4.69,0,0.79,Alamo,Nevada
+15,oct,77.6,43.7,0.2,4.69,0,0.79,Alamo,Nevada
+16,oct,77.1,43.4,0.2,4.69,0,0.79,Alamo,Nevada
+17,oct,76.7,43,0.2,4.72,0,0.79,Alamo,Nevada
+18,oct,76.3,42.7,0.24,4.72,0,0.79,Alamo,Nevada
+19,oct,75.8,42.4,0.24,4.76,0,0.79,Alamo,Nevada
+20,oct,75.4,42.1,0.28,4.76,0,0.79,Alamo,Nevada
+21,oct,75,41.7,0.28,4.76,0,0.79,Alamo,Nevada
+22,oct,74.5,41.4,0.28,4.8,0,0.79,Alamo,Nevada
+23,oct,74.1,41.1,0.31,4.8,0,0.79,Alamo,Nevada
+24,oct,73.7,40.8,0.31,4.84,0,0.79,Alamo,Nevada
+25,oct,73.2,40.5,0.35,4.84,0,0.79,Alamo,Nevada
+26,oct,72.8,40.2,0.35,4.88,0,0.79,Alamo,Nevada
+27,oct,72.3,39.9,0.39,4.88,0,0.79,Alamo,Nevada
+28,oct,71.8,39.5,0.39,4.92,0,0.79,Alamo,Nevada
+29,oct,71.4,39.2,0.43,4.92,0,0.79,Alamo,Nevada
+30,oct,70.9,38.9,0.43,4.96,0,0.79,Alamo,Nevada
+31,oct,70.4,38.6,0.47,4.96,0,0.79,Alamo,Nevada
+1,nov,70,38.2,0.04,5,0,0.79,Alamo,Nevada
+2,nov,69.5,37.9,0.04,5.04,0,0.79,Alamo,Nevada
+3,nov,69,37.6,0.08,5.04,0,0.79,Alamo,Nevada
+4,nov,68.5,37.2,0.08,5.04,0,0.79,Alamo,Nevada
+5,nov,68,36.9,0.08,5.08,0,0.79,Alamo,Nevada
+6,nov,67.5,36.6,0.12,5.08,0,0.91,Alamo,Nevada
+7,nov,67,36.2,0.12,5.12,0.12,0.91,Alamo,Nevada
+8,nov,66.5,35.9,0.16,5.12,0.12,0.91,Alamo,Nevada
+9,nov,66,35.5,0.16,5.16,0.12,0.91,Alamo,Nevada
+10,nov,65.5,35.2,0.2,5.16,0.12,0.91,Alamo,Nevada
+11,nov,65,34.8,0.2,5.2,0.12,0.91,Alamo,Nevada
+12,nov,64.5,34.4,0.2,5.2,0.12,0.91,Alamo,Nevada
+13,nov,63.9,34.1,0.24,5.2,0.12,0.91,Alamo,Nevada
+14,nov,63.4,33.7,0.24,5.24,0.12,0.91,Alamo,Nevada
+15,nov,62.9,33.4,0.28,5.24,0.12,0.98,Alamo,Nevada
+16,nov,62.4,33,0.28,5.28,0.2,0.98,Alamo,Nevada
+17,nov,61.9,32.6,0.28,5.28,0.2,0.98,Alamo,Nevada
+18,nov,61.4,32.3,0.31,5.28,0.2,0.98,Alamo,Nevada
+19,nov,60.8,31.9,0.31,5.31,0.2,0.98,Alamo,Nevada
+20,nov,60.3,31.6,0.31,5.31,0.2,0.98,Alamo,Nevada
+21,nov,59.8,31.2,0.35,5.31,0.2,0.98,Alamo,Nevada
+22,nov,59.3,30.8,0.35,5.35,0.2,0.98,Alamo,Nevada
+23,nov,58.8,30.5,0.39,5.35,0.2,0.98,Alamo,Nevada
+24,nov,58.4,30.2,0.39,5.35,0.2,1.1,Alamo,Nevada
+25,nov,57.9,29.8,0.39,5.39,0.31,1.1,Alamo,Nevada
+26,nov,57.4,29.5,0.43,5.39,0.31,1.1,Alamo,Nevada
+27,nov,57,29.2,0.43,5.39,0.31,1.1,Alamo,Nevada
+28,nov,56.5,28.9,0.43,5.43,0.31,1.1,Alamo,Nevada
+29,nov,56.1,28.6,0.47,5.43,0.31,1.1,Alamo,Nevada
+30,nov,55.7,28.3,0.47,5.43,0.31,1.1,Alamo,Nevada
+1,dec,55.3,28,0.04,5.47,0,1.1,Alamo,Nevada
+2,dec,54.9,27.7,0.04,5.47,0,1.1,Alamo,Nevada
+3,dec,54.5,27.5,0.04,5.51,0,1.1,Alamo,Nevada
+4,dec,54.2,27.2,0.08,5.51,0.12,1.18,Alamo,Nevada
+5,dec,53.8,27,0.08,5.51,0.12,1.18,Alamo,Nevada
+6,dec,53.5,26.8,0.12,5.55,0.12,1.18,Alamo,Nevada
+7,dec,53.2,26.6,0.12,5.55,0.12,1.18,Alamo,Nevada
+8,dec,52.9,26.4,0.16,5.59,0.12,1.18,Alamo,Nevada
+9,dec,52.6,26.2,0.16,5.59,0.2,1.3,Alamo,Nevada
+10,dec,52.4,26,0.16,5.63,0.2,1.3,Alamo,Nevada
+11,dec,52.2,25.9,0.2,5.63,0.2,1.3,Alamo,Nevada
+12,dec,51.9,25.8,0.2,5.67,0.2,1.3,Alamo,Nevada
+13,dec,51.8,25.6,0.24,5.67,0.2,1.3,Alamo,Nevada
+14,dec,51.6,25.5,0.24,5.67,0.31,1.42,Alamo,Nevada
+15,dec,51.4,25.5,0.24,5.71,0.31,1.42,Alamo,Nevada
+16,dec,51.3,25.4,0.28,5.71,0.31,1.42,Alamo,Nevada
+17,dec,51.2,25.3,0.28,5.75,0.31,1.42,Alamo,Nevada
+18,dec,51.1,25.3,0.28,5.75,0.31,1.42,Alamo,Nevada
+19,dec,51,25.2,0.31,5.75,0.39,1.5,Alamo,Nevada
+20,dec,50.9,25.2,0.31,5.79,0.39,1.5,Alamo,Nevada
+21,dec,50.9,25.2,0.35,5.79,0.39,1.5,Alamo,Nevada
+22,dec,50.9,25.2,0.35,5.83,0.39,1.5,Alamo,Nevada
+23,dec,50.8,25.2,0.39,5.83,0.51,1.61,Alamo,Nevada
+24,dec,50.8,25.2,0.39,5.87,0.51,1.61,Alamo,Nevada
+25,dec,50.9,25.3,0.43,5.87,0.51,1.61,Alamo,Nevada
+26,dec,50.9,25.3,0.43,5.91,0.51,1.69,Alamo,Nevada
+27,dec,50.9,25.4,0.47,5.91,0.59,1.69,Alamo,Nevada
+28,dec,51,25.4,0.47,5.94,0.59,1.69,Alamo,Nevada
+29,dec,51,25.5,0.51,5.94,0.59,1.69,Alamo,Nevada
+30,dec,51.1,25.5,0.51,5.98,0.71,1.81,Alamo,Nevada
+31,dec,51.2,25.6,0.55,5.98,0.71,1.81,Alamo,Nevada
+1,jan,58.8,29.6,0.04,0.04,0,0,Amargosa Valley,Nevada
+2,jan,58.9,29.6,0.04,0.04,0,0,Amargosa Valley,Nevada
+3,jan,59,29.7,0.04,0.04,0,0,Amargosa Valley,Nevada
+4,jan,59,29.7,0.08,0.08,0,0,Amargosa Valley,Nevada
+5,jan,59.1,29.8,0.08,0.08,0,0,Amargosa Valley,Nevada
+6,jan,59.2,29.9,0.12,0.12,0,0,Amargosa Valley,Nevada
+7,jan,59.3,30,0.12,0.12,0,0,Amargosa Valley,Nevada
+8,jan,59.4,30,0.16,0.16,0,0,Amargosa Valley,Nevada
+9,jan,59.5,30.1,0.16,0.16,0,0,Amargosa Valley,Nevada
+10,jan,59.6,30.2,0.2,0.2,0,0,Amargosa Valley,Nevada
+11,jan,59.7,30.3,0.2,0.2,0,0,Amargosa Valley,Nevada
+12,jan,59.8,30.4,0.2,0.2,0,0,Amargosa Valley,Nevada
+13,jan,59.9,30.5,0.24,0.24,0,0,Amargosa Valley,Nevada
+14,jan,60,30.5,0.24,0.24,0,0,Amargosa Valley,Nevada
+15,jan,60.1,30.6,0.28,0.28,0,0,Amargosa Valley,Nevada
+16,jan,60.2,30.7,0.28,0.28,0,0,Amargosa Valley,Nevada
+17,jan,60.3,30.8,0.31,0.31,0,0,Amargosa Valley,Nevada
+18,jan,60.4,30.9,0.31,0.31,0,0,Amargosa Valley,Nevada
+19,jan,60.5,31,0.35,0.35,0,0,Amargosa Valley,Nevada
+20,jan,60.6,31.1,0.35,0.35,0,0,Amargosa Valley,Nevada
+21,jan,60.7,31.2,0.39,0.39,0,0,Amargosa Valley,Nevada
+22,jan,60.8,31.3,0.39,0.39,0,0,Amargosa Valley,Nevada
+23,jan,60.9,31.4,0.39,0.39,0,0,Amargosa Valley,Nevada
+24,jan,61,31.5,0.43,0.43,0,0,Amargosa Valley,Nevada
+25,jan,61,31.6,0.43,0.43,0,0,Amargosa Valley,Nevada
+26,jan,61.1,31.7,0.47,0.47,0,0,Amargosa Valley,Nevada
+27,jan,61.3,31.9,0.47,0.47,0,0,Amargosa Valley,Nevada
+28,jan,61.4,32,0.51,0.51,0,0,Amargosa Valley,Nevada
+29,jan,61.5,32.1,0.51,0.51,0,0,Amargosa Valley,Nevada
+30,jan,61.6,32.2,0.55,0.55,0,0,Amargosa Valley,Nevada
+31,jan,61.7,32.4,0.55,0.55,0,0,Amargosa Valley,Nevada
+1,feb,61.8,32.5,0.04,0.59,0,0,Amargosa Valley,Nevada
+2,feb,61.9,32.6,0.04,0.59,0,0,Amargosa Valley,Nevada
+3,feb,62.1,32.8,0.08,0.63,0,0,Amargosa Valley,Nevada
+4,feb,62.2,32.9,0.08,0.67,0,0,Amargosa Valley,Nevada
+5,feb,62.3,33.1,0.12,0.67,0,0,Amargosa Valley,Nevada
+6,feb,62.5,33.3,0.16,0.71,0,0,Amargosa Valley,Nevada
+7,feb,62.6,33.4,0.16,0.71,0,0,Amargosa Valley,Nevada
+8,feb,62.8,33.6,0.2,0.75,0,0,Amargosa Valley,Nevada
+9,feb,62.9,33.8,0.2,0.79,0,0.12,Amargosa Valley,Nevada
+10,feb,63.1,33.9,0.24,0.79,0,0.12,Amargosa Valley,Nevada
+11,feb,63.3,34.1,0.28,0.83,0,0.12,Amargosa Valley,Nevada
+12,feb,63.5,34.3,0.28,0.87,0.12,0.12,Amargosa Valley,Nevada
+13,feb,63.6,34.5,0.31,0.87,0.12,0.12,Amargosa Valley,Nevada
+14,feb,63.8,34.7,0.35,0.91,0.12,0.12,Amargosa Valley,Nevada
+15,feb,64,34.8,0.39,0.94,0.12,0.12,Amargosa Valley,Nevada
+16,feb,64.2,35,0.39,0.98,0.12,0.12,Amargosa Valley,Nevada
+17,feb,64.4,35.2,0.43,1.02,0.12,0.12,Amargosa Valley,Nevada
+18,feb,64.6,35.4,0.47,1.06,0.12,0.12,Amargosa Valley,Nevada
+19,feb,64.9,35.6,0.51,1.06,0.12,0.12,Amargosa Valley,Nevada
+20,feb,65.1,35.8,0.55,1.1,0.12,0.12,Amargosa Valley,Nevada
+21,feb,65.3,36,0.59,1.14,0.12,0.12,Amargosa Valley,Nevada
+22,feb,65.5,36.2,0.63,1.18,0.12,0.12,Amargosa Valley,Nevada
+23,feb,65.8,36.4,0.67,1.22,0.12,0.12,Amargosa Valley,Nevada
+24,feb,66,36.6,0.71,1.26,0.12,0.12,Amargosa Valley,Nevada
+25,feb,66.2,36.7,0.75,1.3,0.12,0.12,Amargosa Valley,Nevada
+26,feb,66.5,36.9,0.79,1.34,0.12,0.12,Amargosa Valley,Nevada
+27,feb,66.7,37.1,0.79,1.38,0.12,0.12,Amargosa Valley,Nevada
+28,feb,67,37.3,0.83,1.38,0.12,0.12,Amargosa Valley,Nevada
+29,feb,67.1,37.4,0,0,0,0,Amargosa Valley,Nevada
+1,mar,67.2,37.5,0.04,1.42,0,0.12,Amargosa Valley,Nevada
+2,mar,67.4,37.6,0.08,1.46,0,0.12,Amargosa Valley,Nevada
+3,mar,67.7,37.8,0.08,1.5,0,0.12,Amargosa Valley,Nevada
+4,mar,67.9,37.9,0.12,1.5,0,0.12,Amargosa Valley,Nevada
+5,mar,68.2,38.1,0.16,1.54,0,0.12,Amargosa Valley,Nevada
+6,mar,68.4,38.3,0.16,1.57,0,0.12,Amargosa Valley,Nevada
+7,mar,68.7,38.4,0.2,1.57,0,0.12,Amargosa Valley,Nevada
+8,mar,68.9,38.5,0.24,1.61,0,0.12,Amargosa Valley,Nevada
+9,mar,69.2,38.7,0.24,1.65,0,0.12,Amargosa Valley,Nevada
+10,mar,69.4,38.8,0.28,1.65,0,0.12,Amargosa Valley,Nevada
+11,mar,69.6,39,0.31,1.69,0,0.12,Amargosa Valley,Nevada
+12,mar,69.9,39.1,0.31,1.69,0,0.12,Amargosa Valley,Nevada
+13,mar,70.1,39.2,0.35,1.73,0,0.12,Amargosa Valley,Nevada
+14,mar,70.4,39.3,0.35,1.73,0,0.12,Amargosa Valley,Nevada
+15,mar,70.6,39.4,0.39,1.77,0,0.12,Amargosa Valley,Nevada
+16,mar,70.8,39.6,0.39,1.77,0,0.12,Amargosa Valley,Nevada
+17,mar,71.1,39.7,0.43,1.81,0,0.12,Amargosa Valley,Nevada
+18,mar,71.3,39.8,0.43,1.81,0,0.12,Amargosa Valley,Nevada
+19,mar,71.5,39.9,0.43,1.85,0,0.12,Amargosa Valley,Nevada
+20,mar,71.8,40,0.47,1.85,0,0.12,Amargosa Valley,Nevada
+21,mar,72,40.1,0.47,1.85,0,0.12,Amargosa Valley,Nevada
+22,mar,72.2,40.2,0.47,1.89,0,0.12,Amargosa Valley,Nevada
+23,mar,72.5,40.3,0.51,1.89,0,0.12,Amargosa Valley,Nevada
+24,mar,72.7,40.5,0.51,1.89,0,0.12,Amargosa Valley,Nevada
+25,mar,72.9,40.6,0.51,1.93,0,0.12,Amargosa Valley,Nevada
+26,mar,73.2,40.7,0.55,1.93,0,0.12,Amargosa Valley,Nevada
+27,mar,73.4,40.8,0.55,1.93,0,0.12,Amargosa Valley,Nevada
+28,mar,73.6,41,0.55,1.97,0,0.12,Amargosa Valley,Nevada
+29,mar,73.9,41.1,0.55,1.97,0,0.12,Amargosa Valley,Nevada
+30,mar,74.1,41.2,0.59,1.97,0,0.12,Amargosa Valley,Nevada
+31,mar,74.4,41.4,0.59,1.97,0,0.12,Amargosa Valley,Nevada
+1,apr,74.6,41.5,0,2.01,0,0.12,Amargosa Valley,Nevada
+2,apr,74.9,41.7,0.04,2.01,0,0.12,Amargosa Valley,Nevada
+3,apr,75.1,41.9,0.04,2.01,0,0.12,Amargosa Valley,Nevada
+4,apr,75.4,42,0.04,2.01,0,0.12,Amargosa Valley,Nevada
+5,apr,75.6,42.2,0.04,2.05,0,0.12,Amargosa Valley,Nevada
+6,apr,75.9,42.4,0.08,2.05,0,0.12,Amargosa Valley,Nevada
+7,apr,76.2,42.6,0.08,2.05,0,0.12,Amargosa Valley,Nevada
+8,apr,76.5,42.8,0.08,2.05,0,0.12,Amargosa Valley,Nevada
+9,apr,76.7,43.1,0.08,2.09,0,0.12,Amargosa Valley,Nevada
+10,apr,77,43.3,0.12,2.09,0,0.12,Amargosa Valley,Nevada
+11,apr,77.3,43.5,0.12,2.09,0,0.12,Amargosa Valley,Nevada
+12,apr,77.6,43.8,0.12,2.09,0,0.12,Amargosa Valley,Nevada
+13,apr,77.9,44,0.12,2.09,0,0.12,Amargosa Valley,Nevada
+14,apr,78.2,44.3,0.12,2.09,0,0.12,Amargosa Valley,Nevada
+15,apr,78.5,44.6,0.12,2.13,0,0.12,Amargosa Valley,Nevada
+16,apr,78.8,44.9,0.16,2.13,0,0.12,Amargosa Valley,Nevada
+17,apr,79.1,45.2,0.16,2.13,0,0.12,Amargosa Valley,Nevada
+18,apr,79.5,45.5,0.16,2.13,0,0.12,Amargosa Valley,Nevada
+19,apr,79.8,45.8,0.16,2.13,0,0.12,Amargosa Valley,Nevada
+20,apr,80.1,46.1,0.16,2.13,0,0.12,Amargosa Valley,Nevada
+21,apr,80.4,46.4,0.16,2.13,0,0.12,Amargosa Valley,Nevada
+22,apr,80.8,46.7,0.16,2.17,0,0.12,Amargosa Valley,Nevada
+23,apr,81.1,47,0.2,2.17,0,0.12,Amargosa Valley,Nevada
+24,apr,81.4,47.4,0.2,2.17,0,0.12,Amargosa Valley,Nevada
+25,apr,81.8,47.7,0.2,2.17,0,0.12,Amargosa Valley,Nevada
+26,apr,82.1,48,0.2,2.17,0,0.12,Amargosa Valley,Nevada
+27,apr,82.4,48.4,0.2,2.17,0,0.12,Amargosa Valley,Nevada
+28,apr,82.8,48.7,0.2,2.2,0,0.12,Amargosa Valley,Nevada
+29,apr,83.1,49.1,0.24,2.2,0,0.12,Amargosa Valley,Nevada
+30,apr,83.4,49.4,0.24,2.2,0,0.12,Amargosa Valley,Nevada
+1,may,83.8,49.7,0,2.2,0,0.12,Amargosa Valley,Nevada
+2,may,84.1,50.1,0,2.2,0,0.12,Amargosa Valley,Nevada
+3,may,84.5,50.4,0,2.2,0,0.12,Amargosa Valley,Nevada
+4,may,84.8,50.8,0.04,2.2,0,0.12,Amargosa Valley,Nevada
+5,may,85.1,51.1,0.04,2.2,0,0.12,Amargosa Valley,Nevada
+6,may,85.4,51.4,0.04,2.24,0,0.12,Amargosa Valley,Nevada
+7,may,85.8,51.8,0.04,2.24,0,0.12,Amargosa Valley,Nevada
+8,may,86.1,52.1,0.04,2.24,0,0.12,Amargosa Valley,Nevada
+9,may,86.4,52.4,0.04,2.24,0,0.12,Amargosa Valley,Nevada
+10,may,86.7,52.7,0.04,2.24,0,0.12,Amargosa Valley,Nevada
+11,may,87.1,53,0.04,2.24,0,0.12,Amargosa Valley,Nevada
+12,may,87.4,53.4,0.04,2.24,0,0.12,Amargosa Valley,Nevada
+13,may,87.7,53.7,0.08,2.24,0,0.12,Amargosa Valley,Nevada
+14,may,88,54,0.08,2.24,0,0.12,Amargosa Valley,Nevada
+15,may,88.3,54.3,0.08,2.28,0,0.12,Amargosa Valley,Nevada
+16,may,88.6,54.6,0.08,2.28,0,0.12,Amargosa Valley,Nevada
+17,may,88.9,54.8,0.08,2.28,0,0.12,Amargosa Valley,Nevada
+18,may,89.2,55.1,0.08,2.28,0,0.12,Amargosa Valley,Nevada
+19,may,89.5,55.4,0.08,2.28,0,0.12,Amargosa Valley,Nevada
+20,may,89.8,55.7,0.08,2.28,0,0.12,Amargosa Valley,Nevada
+21,may,90.1,56,0.12,2.28,0,0.12,Amargosa Valley,Nevada
+22,may,90.4,56.2,0.12,2.28,0,0.12,Amargosa Valley,Nevada
+23,may,90.6,56.5,0.12,2.28,0,0.12,Amargosa Valley,Nevada
+24,may,90.9,56.8,0.12,2.32,0,0.12,Amargosa Valley,Nevada
+25,may,91.2,57,0.12,2.32,0,0.12,Amargosa Valley,Nevada
+26,may,91.5,57.3,0.12,2.32,0,0.12,Amargosa Valley,Nevada
+27,may,91.8,57.5,0.12,2.32,0,0.12,Amargosa Valley,Nevada
+28,may,92.1,57.8,0.12,2.32,0,0.12,Amargosa Valley,Nevada
+29,may,92.3,58.1,0.12,2.32,0,0.12,Amargosa Valley,Nevada
+30,may,92.6,58.3,0.16,2.32,0,0.12,Amargosa Valley,Nevada
+31,may,92.9,58.6,0.16,2.32,0,0.12,Amargosa Valley,Nevada
+1,jun,93.2,58.8,0,2.32,0,0.12,Amargosa Valley,Nevada
+2,jun,93.5,59.1,0,2.36,0,0.12,Amargosa Valley,Nevada
+3,jun,93.8,59.3,0,2.36,0,0.12,Amargosa Valley,Nevada
+4,jun,94,59.6,0,2.36,0,0.12,Amargosa Valley,Nevada
+5,jun,94.3,59.9,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+6,jun,94.6,60.1,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+7,jun,94.9,60.4,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+8,jun,95.2,60.7,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+9,jun,95.5,60.9,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+10,jun,95.8,61.2,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+11,jun,96,61.5,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+12,jun,96.3,61.8,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+13,jun,96.6,62.1,0.04,2.36,0,0.12,Amargosa Valley,Nevada
+14,jun,96.9,62.3,0.04,2.4,0,0.12,Amargosa Valley,Nevada
+15,jun,97.2,62.6,0.04,2.4,0,0.12,Amargosa Valley,Nevada
+16,jun,97.5,62.9,0.04,2.4,0,0.12,Amargosa Valley,Nevada
+17,jun,97.8,63.2,0.04,2.4,0,0.12,Amargosa Valley,Nevada
+18,jun,98.1,63.5,0.04,2.4,0,0.12,Amargosa Valley,Nevada
+19,jun,98.3,63.8,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+20,jun,98.6,64.1,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+21,jun,98.9,64.4,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+22,jun,99.2,64.6,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+23,jun,99.4,64.9,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+24,jun,99.7,65.2,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+25,jun,100,65.5,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+26,jun,100.2,65.8,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+27,jun,100.5,66,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+28,jun,100.7,66.3,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+29,jun,101,66.6,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+30,jun,101.2,66.8,0.08,2.4,0,0.12,Amargosa Valley,Nevada
+1,jul,101.4,67.1,0,2.4,0,0.12,Amargosa Valley,Nevada
+2,jul,101.7,67.3,0,2.44,0,0.12,Amargosa Valley,Nevada
+3,jul,101.9,67.6,0,2.44,0,0.12,Amargosa Valley,Nevada
+4,jul,102.1,67.8,0,2.44,0,0.12,Amargosa Valley,Nevada
+5,jul,102.3,68,0.04,2.44,0,0.12,Amargosa Valley,Nevada
+6,jul,102.4,68.2,0.04,2.44,0,0.12,Amargosa Valley,Nevada
+7,jul,102.6,68.4,0.04,2.44,0,0.12,Amargosa Valley,Nevada
+8,jul,102.8,68.6,0.04,2.44,0,0.12,Amargosa Valley,Nevada
+9,jul,102.9,68.8,0.04,2.48,0,0.12,Amargosa Valley,Nevada
+10,jul,103.1,69,0.08,2.48,0,0.12,Amargosa Valley,Nevada
+11,jul,103.2,69.1,0.08,2.48,0,0.12,Amargosa Valley,Nevada
+12,jul,103.3,69.3,0.08,2.48,0,0.12,Amargosa Valley,Nevada
+13,jul,103.4,69.4,0.08,2.52,0,0.12,Amargosa Valley,Nevada
+14,jul,103.5,69.5,0.08,2.52,0,0.12,Amargosa Valley,Nevada
+15,jul,103.6,69.7,0.12,2.52,0,0.12,Amargosa Valley,Nevada
+16,jul,103.7,69.8,0.12,2.52,0,0.12,Amargosa Valley,Nevada
+17,jul,103.8,69.9,0.12,2.56,0,0.12,Amargosa Valley,Nevada
+18,jul,103.8,69.9,0.12,2.56,0,0.12,Amargosa Valley,Nevada
+19,jul,103.9,70,0.16,2.56,0,0.12,Amargosa Valley,Nevada
+20,jul,103.9,70,0.16,2.56,0,0.12,Amargosa Valley,Nevada
+21,jul,104,70.1,0.16,2.6,0,0.12,Amargosa Valley,Nevada
+22,jul,104,70.1,0.16,2.6,0,0.12,Amargosa Valley,Nevada
+23,jul,104,70.1,0.2,2.6,0,0.12,Amargosa Valley,Nevada
+24,jul,104,70.1,0.2,2.6,0,0.12,Amargosa Valley,Nevada
+25,jul,104,70.1,0.2,2.64,0,0.12,Amargosa Valley,Nevada
+26,jul,103.9,70.1,0.2,2.64,0,0.12,Amargosa Valley,Nevada
+27,jul,103.9,70.1,0.24,2.64,0,0.12,Amargosa Valley,Nevada
+28,jul,103.9,70.1,0.24,2.68,0,0.12,Amargosa Valley,Nevada
+29,jul,103.8,70,0.24,2.68,0,0.12,Amargosa Valley,Nevada
+30,jul,103.8,70,0.28,2.68,0,0.12,Amargosa Valley,Nevada
+31,jul,103.7,69.9,0.28,2.68,0,0.12,Amargosa Valley,Nevada
+1,aug,103.6,69.8,0,2.72,0,0.12,Amargosa Valley,Nevada
+2,aug,103.5,69.7,0.04,2.72,0,0.12,Amargosa Valley,Nevada
+3,aug,103.5,69.7,0.04,2.72,0,0.12,Amargosa Valley,Nevada
+4,aug,103.4,69.6,0.04,2.76,0,0.12,Amargosa Valley,Nevada
+5,aug,103.3,69.5,0.08,2.76,0,0.12,Amargosa Valley,Nevada
+6,aug,103.2,69.3,0.08,2.76,0,0.12,Amargosa Valley,Nevada
+7,aug,103,69.2,0.08,2.8,0,0.12,Amargosa Valley,Nevada
+8,aug,102.9,69.1,0.12,2.8,0,0.12,Amargosa Valley,Nevada
+9,aug,102.8,69,0.12,2.8,0,0.12,Amargosa Valley,Nevada
+10,aug,102.7,68.8,0.12,2.8,0,0.12,Amargosa Valley,Nevada
+11,aug,102.5,68.7,0.16,2.83,0,0.12,Amargosa Valley,Nevada
+12,aug,102.4,68.5,0.16,2.83,0,0.12,Amargosa Valley,Nevada
+13,aug,102.2,68.4,0.16,2.83,0,0.12,Amargosa Valley,Nevada
+14,aug,102.1,68.2,0.16,2.87,0,0.12,Amargosa Valley,Nevada
+15,aug,101.9,68,0.2,2.87,0,0.12,Amargosa Valley,Nevada
+16,aug,101.7,67.8,0.2,2.87,0,0.12,Amargosa Valley,Nevada
+17,aug,101.6,67.7,0.2,2.91,0,0.12,Amargosa Valley,Nevada
+18,aug,101.4,67.5,0.24,2.91,0,0.12,Amargosa Valley,Nevada
+19,aug,101.2,67.3,0.24,2.91,0,0.12,Amargosa Valley,Nevada
+20,aug,101,67.1,0.28,2.95,0,0.12,Amargosa Valley,Nevada
+21,aug,100.8,66.9,0.28,2.95,0,0.12,Amargosa Valley,Nevada
+22,aug,100.6,66.7,0.28,2.95,0,0.12,Amargosa Valley,Nevada
+23,aug,100.4,66.4,0.31,2.99,0,0.12,Amargosa Valley,Nevada
+24,aug,100.2,66.2,0.31,2.99,0,0.12,Amargosa Valley,Nevada
+25,aug,100,66,0.31,3.03,0,0.12,Amargosa Valley,Nevada
+26,aug,99.7,65.7,0.35,3.03,0,0.12,Amargosa Valley,Nevada
+27,aug,99.5,65.5,0.35,3.03,0,0.12,Amargosa Valley,Nevada
+28,aug,99.3,65.3,0.35,3.07,0,0.12,Amargosa Valley,Nevada
+29,aug,99,65,0.39,3.07,0,0.12,Amargosa Valley,Nevada
+30,aug,98.8,64.7,0.39,3.07,0,0.12,Amargosa Valley,Nevada
+31,aug,98.5,64.5,0.39,3.07,0,0.12,Amargosa Valley,Nevada
+1,sep,98.3,64.2,0,3.11,0,0.12,Amargosa Valley,Nevada
+2,sep,98,63.9,0.04,3.11,0,0.12,Amargosa Valley,Nevada
+3,sep,97.7,63.6,0.04,3.11,0,0.12,Amargosa Valley,Nevada
+4,sep,97.4,63.3,0.04,3.11,0,0.12,Amargosa Valley,Nevada
+5,sep,97.1,63,0.04,3.15,0,0.12,Amargosa Valley,Nevada
+6,sep,96.9,62.7,0.04,3.15,0,0.12,Amargosa Valley,Nevada
+7,sep,96.6,62.4,0.08,3.15,0,0.12,Amargosa Valley,Nevada
+8,sep,96.3,62.1,0.08,3.15,0,0.12,Amargosa Valley,Nevada
+9,sep,95.9,61.7,0.08,3.15,0,0.12,Amargosa Valley,Nevada
+10,sep,95.6,61.4,0.08,3.19,0,0.12,Amargosa Valley,Nevada
+11,sep,95.3,61,0.08,3.19,0,0.12,Amargosa Valley,Nevada
+12,sep,95,60.7,0.12,3.19,0,0.12,Amargosa Valley,Nevada
+13,sep,94.7,60.4,0.12,3.19,0,0.12,Amargosa Valley,Nevada
+14,sep,94.3,60,0.12,3.19,0,0.12,Amargosa Valley,Nevada
+15,sep,94,59.6,0.12,3.23,0,0.12,Amargosa Valley,Nevada
+16,sep,93.7,59.3,0.12,3.23,0,0.12,Amargosa Valley,Nevada
+17,sep,93.3,58.9,0.16,3.23,0,0.12,Amargosa Valley,Nevada
+18,sep,93,58.5,0.16,3.23,0,0.12,Amargosa Valley,Nevada
+19,sep,92.6,58.1,0.16,3.27,0,0.12,Amargosa Valley,Nevada
+20,sep,92.3,57.8,0.16,3.27,0,0.12,Amargosa Valley,Nevada
+21,sep,91.9,57.4,0.16,3.27,0,0.12,Amargosa Valley,Nevada
+22,sep,91.6,57,0.2,3.27,0,0.12,Amargosa Valley,Nevada
+23,sep,91.2,56.6,0.2,3.27,0,0.12,Amargosa Valley,Nevada
+24,sep,90.9,56.2,0.2,3.31,0,0.12,Amargosa Valley,Nevada
+25,sep,90.5,55.8,0.2,3.31,0,0.12,Amargosa Valley,Nevada
+26,sep,90.1,55.4,0.2,3.31,0,0.12,Amargosa Valley,Nevada
+27,sep,89.8,55.1,0.24,3.31,0,0.12,Amargosa Valley,Nevada
+28,sep,89.4,54.7,0.24,3.31,0,0.12,Amargosa Valley,Nevada
+29,sep,89,54.3,0.24,3.31,0,0.12,Amargosa Valley,Nevada
+30,sep,88.7,53.9,0.24,3.35,0,0.12,Amargosa Valley,Nevada
+1,oct,88.3,53.5,0,3.35,0,0.12,Amargosa Valley,Nevada
+2,oct,87.9,53.1,0,3.35,0,0.12,Amargosa Valley,Nevada
+3,oct,87.6,52.7,0.04,3.35,0,0.12,Amargosa Valley,Nevada
+4,oct,87.2,52.4,0.04,3.35,0,0.12,Amargosa Valley,Nevada
+5,oct,86.8,52,0.04,3.35,0,0.12,Amargosa Valley,Nevada
+6,oct,86.4,51.6,0.04,3.35,0,0.12,Amargosa Valley,Nevada
+7,oct,86.1,51.2,0.04,3.39,0,0.12,Amargosa Valley,Nevada
+8,oct,85.7,50.9,0.04,3.39,0,0.12,Amargosa Valley,Nevada
+9,oct,85.3,50.5,0.04,3.39,0,0.12,Amargosa Valley,Nevada
+10,oct,84.9,50.1,0.08,3.39,0,0.12,Amargosa Valley,Nevada
+11,oct,84.5,49.8,0.08,3.39,0,0.12,Amargosa Valley,Nevada
+12,oct,84.1,49.4,0.08,3.39,0,0.12,Amargosa Valley,Nevada
+13,oct,83.7,49,0.08,3.39,0,0.12,Amargosa Valley,Nevada
+14,oct,83.4,48.7,0.08,3.39,0,0.12,Amargosa Valley,Nevada
+15,oct,83,48.3,0.08,3.43,0,0.12,Amargosa Valley,Nevada
+16,oct,82.6,48,0.08,3.43,0,0.12,Amargosa Valley,Nevada
+17,oct,82.1,47.6,0.08,3.43,0,0.12,Amargosa Valley,Nevada
+18,oct,81.7,47.2,0.08,3.43,0,0.12,Amargosa Valley,Nevada
+19,oct,81.3,46.9,0.12,3.43,0,0.12,Amargosa Valley,Nevada
+20,oct,80.9,46.5,0.12,3.43,0,0.12,Amargosa Valley,Nevada
+21,oct,80.5,46.2,0.12,3.43,0,0.12,Amargosa Valley,Nevada
+22,oct,80.1,45.8,0.12,3.46,0,0.12,Amargosa Valley,Nevada
+23,oct,79.6,45.5,0.12,3.46,0,0.12,Amargosa Valley,Nevada
+24,oct,79.2,45.1,0.12,3.46,0,0.12,Amargosa Valley,Nevada
+25,oct,78.7,44.8,0.16,3.46,0,0.12,Amargosa Valley,Nevada
+26,oct,78.3,44.4,0.16,3.46,0,0.12,Amargosa Valley,Nevada
+27,oct,77.8,44.1,0.16,3.46,0,0.12,Amargosa Valley,Nevada
+28,oct,77.4,43.7,0.16,3.5,0,0.12,Amargosa Valley,Nevada
+29,oct,76.9,43.4,0.16,3.5,0,0.12,Amargosa Valley,Nevada
+30,oct,76.4,43,0.2,3.5,0,0.12,Amargosa Valley,Nevada
+31,oct,76,42.6,0.2,3.5,0,0.12,Amargosa Valley,Nevada
+1,nov,75.5,42.3,0,3.54,0,0.12,Amargosa Valley,Nevada
+2,nov,75,41.9,0.04,3.54,0,0.12,Amargosa Valley,Nevada
+3,nov,74.5,41.5,0.04,3.54,0,0.12,Amargosa Valley,Nevada
+4,nov,74,41.2,0.04,3.54,0,0.12,Amargosa Valley,Nevada
+5,nov,73.5,40.8,0.08,3.58,0,0.12,Amargosa Valley,Nevada
+6,nov,73,40.4,0.08,3.58,0,0.12,Amargosa Valley,Nevada
+7,nov,72.5,40.1,0.08,3.58,0,0.12,Amargosa Valley,Nevada
+8,nov,72,39.7,0.08,3.62,0,0.12,Amargosa Valley,Nevada
+9,nov,71.5,39.3,0.12,3.62,0,0.12,Amargosa Valley,Nevada
+10,nov,70.9,38.9,0.12,3.62,0,0.12,Amargosa Valley,Nevada
+11,nov,70.4,38.6,0.12,3.62,0,0.12,Amargosa Valley,Nevada
+12,nov,69.9,38.2,0.12,3.66,0,0.12,Amargosa Valley,Nevada
+13,nov,69.4,37.8,0.16,3.66,0,0.12,Amargosa Valley,Nevada
+14,nov,68.9,37.4,0.16,3.66,0,0.12,Amargosa Valley,Nevada
+15,nov,68.4,37.1,0.16,3.7,0,0.12,Amargosa Valley,Nevada
+16,nov,67.9,36.7,0.2,3.7,0,0.12,Amargosa Valley,Nevada
+17,nov,67.4,36.3,0.2,3.7,0,0.12,Amargosa Valley,Nevada
+18,nov,66.9,36,0.2,3.7,0,0.12,Amargosa Valley,Nevada
+19,nov,66.4,35.6,0.2,3.74,0,0.12,Amargosa Valley,Nevada
+20,nov,65.9,35.3,0.24,3.74,0,0.12,Amargosa Valley,Nevada
+21,nov,65.5,34.9,0.24,3.74,0,0.12,Amargosa Valley,Nevada
+22,nov,65,34.6,0.24,3.74,0,0.12,Amargosa Valley,Nevada
+23,nov,64.5,34.3,0.24,3.78,0,0.12,Amargosa Valley,Nevada
+24,nov,64.1,33.9,0.24,3.78,0,0.12,Amargosa Valley,Nevada
+25,nov,63.7,33.6,0.28,3.78,0,0.12,Amargosa Valley,Nevada
+26,nov,63.3,33.3,0.28,3.78,0,0.12,Amargosa Valley,Nevada
+27,nov,62.9,33,0.28,3.82,0,0.12,Amargosa Valley,Nevada
+28,nov,62.5,32.7,0.28,3.82,0,0.12,Amargosa Valley,Nevada
+29,nov,62.1,32.4,0.31,3.82,0,0.12,Amargosa Valley,Nevada
+30,nov,61.7,32.1,0.31,3.82,0,0.12,Amargosa Valley,Nevada
+1,dec,61.4,31.9,0,3.86,0,0.12,Amargosa Valley,Nevada
+2,dec,61.1,31.6,0.04,3.86,0,0.12,Amargosa Valley,Nevada
+3,dec,60.8,31.4,0.04,3.86,0,0.12,Amargosa Valley,Nevada
+4,dec,60.5,31.2,0.04,3.86,0,0.12,Amargosa Valley,Nevada
+5,dec,60.2,31,0.04,3.9,0,0.12,Amargosa Valley,Nevada
+6,dec,60,30.8,0.08,3.9,0,0.12,Amargosa Valley,Nevada
+7,dec,59.7,30.6,0.08,3.9,0,0.12,Amargosa Valley,Nevada
+8,dec,59.5,30.4,0.08,3.94,0,0.12,Amargosa Valley,Nevada
+9,dec,59.3,30.2,0.12,3.94,0,0.12,Amargosa Valley,Nevada
+10,dec,59.1,30.1,0.12,3.94,0,0.12,Amargosa Valley,Nevada
+11,dec,59,29.9,0.12,3.94,0,0.12,Amargosa Valley,Nevada
+12,dec,58.8,29.8,0.16,3.98,0,0.12,Amargosa Valley,Nevada
+13,dec,58.7,29.7,0.16,3.98,0,0.12,Amargosa Valley,Nevada
+14,dec,58.6,29.6,0.16,4.02,0,0.12,Amargosa Valley,Nevada
+15,dec,58.5,29.5,0.2,4.02,0,0.12,Amargosa Valley,Nevada
+16,dec,58.4,29.4,0.2,4.02,0,0.12,Amargosa Valley,Nevada
+17,dec,58.3,29.4,0.2,4.06,0,0.12,Amargosa Valley,Nevada
+18,dec,58.3,29.3,0.24,4.06,0,0.12,Amargosa Valley,Nevada
+19,dec,58.3,29.3,0.24,4.06,0,0.12,Amargosa Valley,Nevada
+20,dec,58.2,29.3,0.28,4.09,0,0.12,Amargosa Valley,Nevada
+21,dec,58.2,29.3,0.28,4.09,0,0.12,Amargosa Valley,Nevada
+22,dec,58.2,29.2,0.28,4.13,0,0.12,Amargosa Valley,Nevada
+23,dec,58.2,29.2,0.31,4.13,0,0.12,Amargosa Valley,Nevada
+24,dec,58.3,29.2,0.31,4.17,0,0.12,Amargosa Valley,Nevada
+25,dec,58.3,29.3,0.35,4.17,0,0.12,Amargosa Valley,Nevada
+26,dec,58.4,29.3,0.35,4.21,0,0.12,Amargosa Valley,Nevada
+27,dec,58.4,29.3,0.39,4.21,0,0.12,Amargosa Valley,Nevada
+28,dec,58.5,29.4,0.39,4.21,0,0.12,Amargosa Valley,Nevada
+29,dec,58.5,29.4,0.43,4.25,0,0.12,Amargosa Valley,Nevada
+30,dec,58.6,29.4,0.43,4.25,0,0.12,Amargosa Valley,Nevada
+31,dec,58.7,29.5,0.47,4.29,0,0.12,Amargosa Valley,Nevada
+1,jan,39.7,22.7,0.04,0.04,0.39,0.39,Austin,Nevada
+2,jan,39.8,22.8,0.08,0.08,0.71,0.71,Austin,Nevada
+3,jan,39.9,22.8,0.12,0.12,1.1,1.1,Austin,Nevada
+4,jan,39.9,22.9,0.2,0.2,1.5,1.5,Austin,Nevada
+5,jan,40,23,0.24,0.24,1.89,1.89,Austin,Nevada
+6,jan,40.1,23.1,0.28,0.28,2.28,2.28,Austin,Nevada
+7,jan,40.2,23.1,0.31,0.31,2.6,2.6,Austin,Nevada
+8,jan,40.3,23.2,0.35,0.35,2.99,2.99,Austin,Nevada
+9,jan,40.4,23.2,0.39,0.39,3.39,3.39,Austin,Nevada
+10,jan,40.5,23.3,0.47,0.47,3.82,3.82,Austin,Nevada
+11,jan,40.5,23.3,0.51,0.51,4.29,4.29,Austin,Nevada
+12,jan,40.6,23.4,0.55,0.55,4.69,4.69,Austin,Nevada
+13,jan,40.7,23.4,0.59,0.59,5.12,5.12,Austin,Nevada
+14,jan,40.7,23.4,0.67,0.67,5.59,5.59,Austin,Nevada
+15,jan,40.8,23.4,0.71,0.71,5.98,5.98,Austin,Nevada
+16,jan,40.8,23.4,0.75,0.75,6.5,6.5,Austin,Nevada
+17,jan,40.9,23.5,0.79,0.79,6.89,6.89,Austin,Nevada
+18,jan,40.9,23.5,0.87,0.87,7.28,7.28,Austin,Nevada
+19,jan,41,23.5,0.91,0.91,7.72,7.72,Austin,Nevada
+20,jan,41,23.5,0.94,0.94,8.11,8.11,Austin,Nevada
+21,jan,41,23.5,0.98,0.98,8.5,8.5,Austin,Nevada
+22,jan,41.1,23.5,1.02,1.02,8.9,8.9,Austin,Nevada
+23,jan,41.1,23.5,1.06,1.06,9.21,9.21,Austin,Nevada
+24,jan,41.1,23.4,1.1,1.1,9.61,9.61,Austin,Nevada
+25,jan,41.2,23.4,1.14,1.14,10,10,Austin,Nevada
+26,jan,41.2,23.4,1.18,1.18,10.39,10.39,Austin,Nevada
+27,jan,41.2,23.4,1.22,1.22,10.79,10.79,Austin,Nevada
+28,jan,41.3,23.4,1.26,1.26,11.18,11.18,Austin,Nevada
+29,jan,41.3,23.5,1.34,1.34,11.61,11.61,Austin,Nevada
+30,jan,41.3,23.5,1.38,1.38,12.09,12.09,Austin,Nevada
+31,jan,41.4,23.5,1.42,1.42,12.52,12.52,Austin,Nevada
+1,feb,41.4,23.5,0.04,1.46,0.39,12.91,Austin,Nevada
+2,feb,41.5,23.5,0.08,1.5,0.79,13.31,Austin,Nevada
+3,feb,41.5,23.6,0.12,1.54,1.1,13.58,Austin,Nevada
+4,feb,41.6,23.6,0.16,1.57,1.5,14.02,Austin,Nevada
+5,feb,41.7,23.7,0.2,1.61,1.89,14.41,Austin,Nevada
+6,feb,41.7,23.7,0.24,1.65,2.28,14.8,Austin,Nevada
+7,feb,41.8,23.8,0.28,1.69,2.72,15.2,Austin,Nevada
+8,feb,41.9,23.9,0.31,1.73,3.11,15.59,Austin,Nevada
+9,feb,42,24,0.39,1.77,3.5,15.98,Austin,Nevada
+10,feb,42.1,24,0.43,1.81,3.82,16.3,Austin,Nevada
+11,feb,42.3,24.1,0.47,1.85,4.21,16.69,Austin,Nevada
+12,feb,42.4,24.3,0.51,1.93,4.49,17.01,Austin,Nevada
+13,feb,42.5,24.4,0.55,1.97,4.88,17.4,Austin,Nevada
+14,feb,42.7,24.5,0.59,2.01,5.2,17.72,Austin,Nevada
+15,feb,42.8,24.6,0.63,2.05,5.59,18.11,Austin,Nevada
+16,feb,43,24.8,0.67,2.09,5.91,18.39,Austin,Nevada
+17,feb,43.2,24.9,0.71,2.13,6.3,18.82,Austin,Nevada
+18,feb,43.3,25.1,0.75,2.17,6.69,19.21,Austin,Nevada
+19,feb,43.5,25.3,0.79,2.2,7.01,19.49,Austin,Nevada
+20,feb,43.7,25.4,0.83,2.24,7.4,19.88,Austin,Nevada
+21,feb,43.9,25.6,0.87,2.28,7.8,20.31,Austin,Nevada
+22,feb,44.1,25.8,0.94,2.32,8.11,20.59,Austin,Nevada
+23,feb,44.3,25.9,0.98,2.36,8.5,20.98,Austin,Nevada
+24,feb,44.5,26.1,1.02,2.44,8.9,21.42,Austin,Nevada
+25,feb,44.8,26.3,1.06,2.48,9.21,21.69,Austin,Nevada
+26,feb,45,26.5,1.1,2.52,9.61,22.09,Austin,Nevada
+27,feb,45.2,26.7,1.14,2.56,10,22.52,Austin,Nevada
+28,feb,45.4,26.8,1.22,2.64,10.39,22.91,Austin,Nevada
+29,feb,45.5,26.9,0,0,0,0,Austin,Nevada
+1,mar,45.7,27,0.08,2.68,0.51,23.39,Austin,Nevada
+2,mar,45.9,27.2,0.12,2.72,0.98,23.9,Austin,Nevada
+3,mar,46.1,27.4,0.16,2.8,1.5,24.41,Austin,Nevada
+4,mar,46.3,27.5,0.24,2.83,2.01,24.88,Austin,Nevada
+5,mar,46.6,27.7,0.28,2.91,2.4,25.31,Austin,Nevada
+6,mar,46.8,27.9,0.31,2.95,2.91,25.79,Austin,Nevada
+7,mar,47,28,0.39,2.99,3.39,26.3,Austin,Nevada
+8,mar,47.3,28.2,0.43,3.07,3.82,26.69,Austin,Nevada
+9,mar,47.5,28.3,0.47,3.11,4.29,27.2,Austin,Nevada
+10,mar,47.7,28.4,0.55,3.15,4.69,27.6,Austin,Nevada
+11,mar,47.9,28.6,0.59,3.23,5.2,28.11,Austin,Nevada
+12,mar,48.1,28.7,0.67,3.27,5.71,28.58,Austin,Nevada
+13,mar,48.3,28.8,0.71,3.31,6.18,29.09,Austin,Nevada
+14,mar,48.5,28.9,0.75,3.39,6.69,29.61,Austin,Nevada
+15,mar,48.7,29,0.83,3.43,7.2,30.12,Austin,Nevada
+16,mar,48.9,29.2,0.87,3.5,7.6,30.51,Austin,Nevada
+17,mar,49.1,29.3,0.94,3.54,8.11,30.98,Austin,Nevada
+18,mar,49.3,29.3,0.98,3.58,8.58,31.5,Austin,Nevada
+19,mar,49.5,29.4,1.02,3.66,9.09,32.01,Austin,Nevada
+20,mar,49.7,29.5,1.1,3.7,9.61,32.52,Austin,Nevada
+21,mar,49.8,29.6,1.14,3.78,10.12,32.99,Austin,Nevada
+22,mar,50,29.7,1.22,3.82,10.51,33.39,Austin,Nevada
+23,mar,50.2,29.8,1.26,3.9,10.98,33.9,Austin,Nevada
+24,mar,50.4,29.9,1.34,3.94,11.5,34.41,Austin,Nevada
+25,mar,50.5,30,1.38,4.02,12.01,34.88,Austin,Nevada
+26,mar,50.7,30,1.42,4.06,12.4,35.31,Austin,Nevada
+27,mar,50.9,30.1,1.5,4.09,12.8,35.71,Austin,Nevada
+28,mar,51.1,30.2,1.54,4.13,13.31,36.18,Austin,Nevada
+29,mar,51.2,30.3,1.57,4.21,13.7,36.61,Austin,Nevada
+30,mar,51.4,30.4,1.61,4.25,14.02,36.89,Austin,Nevada
+31,mar,51.6,30.5,1.65,4.29,14.41,37.28,Austin,Nevada
+1,apr,51.8,30.6,0.04,4.33,0.39,37.72,Austin,Nevada
+2,apr,52,30.7,0.08,4.37,0.71,37.99,Austin,Nevada
+3,apr,52.2,30.9,0.16,4.45,1.1,38.39,Austin,Nevada
+4,apr,52.4,31,0.2,4.49,1.42,38.7,Austin,Nevada
+5,apr,52.6,31.1,0.24,4.53,1.81,39.09,Austin,Nevada
+6,apr,52.8,31.3,0.28,4.57,2.2,39.49,Austin,Nevada
+7,apr,53,31.4,0.31,4.61,2.52,39.8,Austin,Nevada
+8,apr,53.2,31.6,0.39,4.69,2.91,40.2,Austin,Nevada
+9,apr,53.4,31.8,0.43,4.72,3.19,40.51,Austin,Nevada
+10,apr,53.7,31.9,0.47,4.76,3.58,40.91,Austin,Nevada
+11,apr,53.9,32.1,0.51,4.8,4.02,41.3,Austin,Nevada
+12,apr,54.2,32.3,0.59,4.88,4.29,41.61,Austin,Nevada
+13,apr,54.4,32.6,0.63,4.92,4.69,42.01,Austin,Nevada
+14,apr,54.7,32.8,0.71,4.96,5.12,42.4,Austin,Nevada
+15,apr,54.9,33,0.75,5.04,5.39,42.72,Austin,Nevada
+16,apr,55.2,33.2,0.79,5.08,5.71,42.99,Austin,Nevada
+17,apr,55.5,33.5,0.83,5.12,5.98,43.31,Austin,Nevada
+18,apr,55.8,33.7,0.87,5.16,6.3,43.58,Austin,Nevada
+19,apr,56.1,34,0.94,5.24,6.61,43.9,Austin,Nevada
+20,apr,56.4,34.3,0.98,5.28,6.89,44.21,Austin,Nevada
+21,apr,56.7,34.5,1.02,5.31,7.2,44.49,Austin,Nevada
+22,apr,57,34.8,1.06,5.35,7.52,44.8,Austin,Nevada
+23,apr,57.3,35.1,1.14,5.43,7.8,45.12,Austin,Nevada
+24,apr,57.6,35.4,1.18,5.47,8.11,45.39,Austin,Nevada
+25,apr,57.9,35.7,1.22,5.51,8.39,45.71,Austin,Nevada
+26,apr,58.3,36,1.3,5.59,8.58,45.91,Austin,Nevada
+27,apr,58.6,36.2,1.34,5.63,8.9,46.18,Austin,Nevada
+28,apr,58.9,36.5,1.42,5.71,9.21,46.5,Austin,Nevada
+29,apr,59.3,36.8,1.46,5.75,9.41,46.69,Austin,Nevada
+30,apr,59.6,37.1,1.54,5.83,9.69,47.01,Austin,Nevada
+1,may,59.9,37.4,0.08,5.87,0.2,47.2,Austin,Nevada
+2,may,60.3,37.7,0.12,5.94,0.39,47.4,Austin,Nevada
+3,may,60.6,38,0.2,5.98,0.71,47.72,Austin,Nevada
+4,may,60.9,38.2,0.24,6.06,0.91,47.91,Austin,Nevada
+5,may,61.3,38.5,0.31,6.14,1.1,48.11,Austin,Nevada
+6,may,61.6,38.8,0.39,6.18,1.18,48.19,Austin,Nevada
+7,may,61.9,39,0.43,6.26,1.42,48.39,Austin,Nevada
+8,may,62.3,39.3,0.51,6.34,1.61,48.58,Austin,Nevada
+9,may,62.6,39.5,0.55,6.38,1.81,48.82,Austin,Nevada
+10,may,62.9,39.8,0.63,6.46,1.89,48.9,Austin,Nevada
+11,may,63.2,40,0.71,6.5,2.01,49.02,Austin,Nevada
+12,may,63.6,40.2,0.75,6.57,2.09,49.09,Austin,Nevada
+13,may,63.9,40.4,0.83,6.61,2.2,49.21,Austin,Nevada
+14,may,64.2,40.7,0.87,6.69,2.28,49.29,Austin,Nevada
+15,may,64.5,40.9,0.94,6.73,2.52,49.49,Austin,Nevada
+16,may,64.8,41.1,0.98,6.81,2.6,49.61,Austin,Nevada
+17,may,65.1,41.3,1.06,6.85,2.72,49.69,Austin,Nevada
+18,may,65.5,41.5,1.1,6.93,2.8,49.8,Austin,Nevada
+19,may,65.8,41.7,1.18,6.97,2.91,49.88,Austin,Nevada
+20,may,66.1,41.8,1.22,7.05,2.99,50,Austin,Nevada
+21,may,66.4,42,1.3,7.09,3.11,50.12,Austin,Nevada
+22,may,66.7,42.2,1.34,7.17,3.11,50.12,Austin,Nevada
+23,may,67,42.4,1.38,7.2,3.19,50.2,Austin,Nevada
+24,may,67.3,42.6,1.46,7.24,3.31,50.31,Austin,Nevada
+25,may,67.6,42.7,1.5,7.32,3.39,50.39,Austin,Nevada
+26,may,68,42.9,1.54,7.36,3.5,50.51,Austin,Nevada
+27,may,68.3,43.1,1.61,7.4,3.58,50.59,Austin,Nevada
+28,may,68.6,43.3,1.65,7.48,3.58,50.59,Austin,Nevada
+29,may,68.9,43.5,1.69,7.52,3.7,50.71,Austin,Nevada
+30,may,69.3,43.7,1.77,7.56,3.82,50.79,Austin,Nevada
+31,may,69.6,43.9,1.81,7.6,3.82,50.79,Austin,Nevada
+1,jun,70,44.1,0.04,7.64,0,50.79,Austin,Nevada
+2,jun,70.3,44.3,0.08,7.68,0.12,50.91,Austin,Nevada
+3,jun,70.7,44.5,0.12,7.72,0.12,50.91,Austin,Nevada
+4,jun,71,44.7,0.16,7.76,0.12,50.91,Austin,Nevada
+5,jun,71.4,45,0.2,7.8,0.12,50.91,Austin,Nevada
+6,jun,71.8,45.2,0.2,7.83,0.2,50.98,Austin,Nevada
+7,jun,72.2,45.5,0.24,7.83,0.2,50.98,Austin,Nevada
+8,jun,72.6,45.7,0.28,7.87,0.2,50.98,Austin,Nevada
+9,jun,73,46,0.31,7.91,0.2,50.98,Austin,Nevada
+10,jun,73.4,46.3,0.31,7.95,0.31,51.1,Austin,Nevada
+11,jun,73.8,46.6,0.35,7.95,0.31,51.1,Austin,Nevada
+12,jun,74.2,46.9,0.39,7.99,0.31,51.1,Austin,Nevada
+13,jun,74.6,47.2,0.39,8.03,0.31,51.1,Austin,Nevada
+14,jun,75,47.5,0.43,8.03,0.31,51.1,Austin,Nevada
+15,jun,75.5,47.9,0.43,8.07,0.39,51.18,Austin,Nevada
+16,jun,75.9,48.2,0.47,8.07,0.39,51.18,Austin,Nevada
+17,jun,76.3,48.5,0.51,8.11,0.39,51.18,Austin,Nevada
+18,jun,76.8,48.9,0.51,8.15,0.39,51.18,Austin,Nevada
+19,jun,77.2,49.3,0.55,8.15,0.39,51.18,Austin,Nevada
+20,jun,77.7,49.6,0.55,8.15,0.39,51.18,Austin,Nevada
+21,jun,78.1,50,0.55,8.19,0.39,51.18,Austin,Nevada
+22,jun,78.6,50.4,0.59,8.19,0.39,51.18,Austin,Nevada
+23,jun,79,50.8,0.59,8.23,0.39,51.18,Austin,Nevada
+24,jun,79.5,51.1,0.63,8.23,0.39,51.18,Austin,Nevada
+25,jun,79.9,51.5,0.63,8.23,0.39,51.18,Austin,Nevada
+26,jun,80.3,51.9,0.63,8.27,0.39,51.18,Austin,Nevada
+27,jun,80.8,52.3,0.67,8.27,0.39,51.18,Austin,Nevada
+28,jun,81.2,52.7,0.67,8.27,0.39,51.18,Austin,Nevada
+29,jun,81.6,53,0.67,8.27,0.39,51.18,Austin,Nevada
+30,jun,82,53.4,0.67,8.31,0.39,51.18,Austin,Nevada
+1,jul,82.4,53.8,0,8.31,0,51.18,Austin,Nevada
+2,jul,82.8,54.1,0.04,8.31,0,51.18,Austin,Nevada
+3,jul,83.2,54.5,0.04,8.31,0,51.18,Austin,Nevada
+4,jul,83.5,54.8,0.04,8.35,0,51.18,Austin,Nevada
+5,jul,83.9,55.1,0.04,8.35,0,51.18,Austin,Nevada
+6,jul,84.2,55.4,0.08,8.35,0,51.18,Austin,Nevada
+7,jul,84.5,55.7,0.08,8.39,0,51.18,Austin,Nevada
+8,jul,84.8,56,0.08,8.39,0,51.18,Austin,Nevada
+9,jul,85.1,56.3,0.12,8.39,0,51.18,Austin,Nevada
+10,jul,85.4,56.5,0.12,8.43,0,51.18,Austin,Nevada
+11,jul,85.6,56.8,0.16,8.43,0,51.18,Austin,Nevada
+12,jul,85.9,57,0.16,8.46,0,51.18,Austin,Nevada
+13,jul,86.1,57.2,0.2,8.46,0,51.18,Austin,Nevada
+14,jul,86.3,57.4,0.2,8.5,0,51.18,Austin,Nevada
+15,jul,86.5,57.6,0.2,8.5,0,51.18,Austin,Nevada
+16,jul,86.6,57.8,0.24,8.5,0,51.18,Austin,Nevada
+17,jul,86.8,57.9,0.24,8.54,0,51.18,Austin,Nevada
+18,jul,86.9,58,0.28,8.54,0,51.18,Austin,Nevada
+19,jul,87,58.1,0.28,8.58,0,51.18,Austin,Nevada
+20,jul,87.1,58.2,0.31,8.58,0,51.18,Austin,Nevada
+21,jul,87.1,58.3,0.31,8.62,0,51.18,Austin,Nevada
+22,jul,87.2,58.3,0.35,8.62,0,51.18,Austin,Nevada
+23,jul,87.2,58.4,0.35,8.66,0,51.18,Austin,Nevada
+24,jul,87.2,58.4,0.39,8.7,0,51.18,Austin,Nevada
+25,jul,87.2,58.4,0.43,8.7,0,51.18,Austin,Nevada
+26,jul,87.2,58.4,0.43,8.74,0,51.18,Austin,Nevada
+27,jul,87.2,58.4,0.47,8.74,0,51.18,Austin,Nevada
+28,jul,87.1,58.4,0.47,8.78,0,51.18,Austin,Nevada
+29,jul,87.1,58.3,0.51,8.78,0,51.18,Austin,Nevada
+30,jul,87,58.3,0.51,8.82,0,51.18,Austin,Nevada
+31,jul,86.9,58.2,0.55,8.86,0,51.18,Austin,Nevada
+1,aug,86.8,58.1,0.04,8.86,0,51.18,Austin,Nevada
+2,aug,86.7,58,0.04,8.9,0,51.18,Austin,Nevada
+3,aug,86.6,57.9,0.08,8.9,0,51.18,Austin,Nevada
+4,aug,86.5,57.8,0.08,8.9,0,51.18,Austin,Nevada
+5,aug,86.4,57.7,0.08,8.94,0,51.18,Austin,Nevada
+6,aug,86.2,57.5,0.12,8.94,0,51.18,Austin,Nevada
+7,aug,86.1,57.4,0.12,8.98,0,51.18,Austin,Nevada
+8,aug,85.9,57.3,0.16,8.98,0,51.18,Austin,Nevada
+9,aug,85.7,57.1,0.16,9.02,0,51.18,Austin,Nevada
+10,aug,85.6,57,0.16,9.02,0,51.18,Austin,Nevada
+11,aug,85.4,56.8,0.2,9.02,0,51.18,Austin,Nevada
+12,aug,85.2,56.6,0.2,9.06,0,51.18,Austin,Nevada
+13,aug,85,56.5,0.24,9.06,0,51.18,Austin,Nevada
+14,aug,84.8,56.3,0.24,9.09,0,51.18,Austin,Nevada
+15,aug,84.6,56.1,0.24,9.09,0,51.18,Austin,Nevada
+16,aug,84.4,55.9,0.28,9.09,0,51.18,Austin,Nevada
+17,aug,84.2,55.7,0.28,9.13,0,51.18,Austin,Nevada
+18,aug,84,55.5,0.31,9.13,0,51.18,Austin,Nevada
+19,aug,83.8,55.3,0.31,9.17,0,51.18,Austin,Nevada
+20,aug,83.6,55.1,0.35,9.17,0,51.18,Austin,Nevada
+21,aug,83.3,54.9,0.35,9.21,0,51.18,Austin,Nevada
+22,aug,83.1,54.7,0.35,9.21,0,51.18,Austin,Nevada
+23,aug,82.8,54.5,0.39,9.21,0,51.18,Austin,Nevada
+24,aug,82.6,54.2,0.39,9.25,0,51.18,Austin,Nevada
+25,aug,82.4,54,0.43,9.25,0,51.18,Austin,Nevada
+26,aug,82.1,53.8,0.43,9.29,0,51.18,Austin,Nevada
+27,aug,81.8,53.5,0.47,9.29,0,51.18,Austin,Nevada
+28,aug,81.6,53.3,0.47,9.33,0,51.18,Austin,Nevada
+29,aug,81.3,53,0.51,9.33,0,51.18,Austin,Nevada
+30,aug,81,52.8,0.51,9.33,0,51.18,Austin,Nevada
+31,aug,80.7,52.5,0.51,9.37,0,51.18,Austin,Nevada
+1,sep,80.4,52.2,0.04,9.41,0,51.18,Austin,Nevada
+2,sep,80.1,52,0.04,9.41,0,51.18,Austin,Nevada
+3,sep,79.8,51.7,0.04,9.41,0,51.18,Austin,Nevada
+4,sep,79.5,51.4,0.08,9.45,0,51.18,Austin,Nevada
+5,sep,79.1,51.1,0.08,9.45,0,51.18,Austin,Nevada
+6,sep,78.8,50.8,0.12,9.49,0,51.18,Austin,Nevada
+7,sep,78.4,50.5,0.12,9.49,0,51.18,Austin,Nevada
+8,sep,78.1,50.2,0.12,9.49,0,51.18,Austin,Nevada
+9,sep,77.7,49.9,0.16,9.53,0,51.18,Austin,Nevada
+10,sep,77.3,49.5,0.16,9.53,0,51.18,Austin,Nevada
+11,sep,77,49.2,0.2,9.57,0,51.18,Austin,Nevada
+12,sep,76.6,48.9,0.2,9.57,0,51.18,Austin,Nevada
+13,sep,76.2,48.5,0.24,9.61,0,51.18,Austin,Nevada
+14,sep,75.8,48.2,0.24,9.61,0,51.18,Austin,Nevada
+15,sep,75.3,47.9,0.24,9.61,0,51.18,Austin,Nevada
+16,sep,74.9,47.5,0.28,9.65,0,51.18,Austin,Nevada
+17,sep,74.5,47.2,0.28,9.65,0.12,51.3,Austin,Nevada
+18,sep,74.1,46.8,0.31,9.69,0.12,51.3,Austin,Nevada
+19,sep,73.6,46.5,0.35,9.72,0.12,51.3,Austin,Nevada
+20,sep,73.2,46.1,0.35,9.72,0.12,51.3,Austin,Nevada
+21,sep,72.7,45.8,0.39,9.76,0.2,51.42,Austin,Nevada
+22,sep,72.3,45.4,0.39,9.76,0.2,51.42,Austin,Nevada
+23,sep,71.8,45.1,0.43,9.8,0.2,51.42,Austin,Nevada
+24,sep,71.4,44.7,0.43,9.8,0.2,51.42,Austin,Nevada
+25,sep,70.9,44.4,0.47,9.84,0.31,51.5,Austin,Nevada
+26,sep,70.4,44,0.47,9.84,0.31,51.5,Austin,Nevada
+27,sep,70,43.7,0.51,9.88,0.31,51.5,Austin,Nevada
+28,sep,69.5,43.3,0.51,9.88,0.31,51.5,Austin,Nevada
+29,sep,69,43,0.55,9.92,0.39,51.61,Austin,Nevada
+30,sep,68.6,42.7,0.59,9.96,0.39,51.61,Austin,Nevada
+1,oct,68.1,42.3,0.04,9.96,0,51.61,Austin,Nevada
+2,oct,67.6,42,0.04,10,0,51.61,Austin,Nevada
+3,oct,67.2,41.7,0.08,10.04,0.12,51.69,Austin,Nevada
+4,oct,66.7,41.4,0.12,10.04,0.12,51.69,Austin,Nevada
+5,oct,66.3,41.1,0.12,10.08,0.12,51.69,Austin,Nevada
+6,oct,65.8,40.8,0.16,10.12,0.2,51.81,Austin,Nevada
+7,oct,65.4,40.5,0.2,10.12,0.2,51.81,Austin,Nevada
+8,oct,64.9,40.2,0.2,10.16,0.2,51.81,Austin,Nevada
+9,oct,64.5,39.9,0.24,10.2,0.31,51.89,Austin,Nevada
+10,oct,64,39.6,0.28,10.2,0.31,51.89,Austin,Nevada
+11,oct,63.6,39.3,0.28,10.24,0.31,51.89,Austin,Nevada
+12,oct,63.1,39.1,0.31,10.28,0.39,52.01,Austin,Nevada
+13,oct,62.7,38.8,0.35,10.28,0.39,52.01,Austin,Nevada
+14,oct,62.3,38.5,0.35,10.31,0.51,52.09,Austin,Nevada
+15,oct,61.8,38.3,0.39,10.35,0.51,52.09,Austin,Nevada
+16,oct,61.4,38,0.43,10.35,0.51,52.09,Austin,Nevada
+17,oct,61,37.8,0.43,10.39,0.59,52.2,Austin,Nevada
+18,oct,60.6,37.5,0.47,10.43,0.59,52.2,Austin,Nevada
+19,oct,60.2,37.3,0.51,10.47,0.59,52.2,Austin,Nevada
+20,oct,59.7,37,0.51,10.47,0.71,52.28,Austin,Nevada
+21,oct,59.3,36.8,0.55,10.51,0.71,52.28,Austin,Nevada
+22,oct,58.9,36.5,0.59,10.55,0.79,52.4,Austin,Nevada
+23,oct,58.5,36.3,0.63,10.55,0.79,52.4,Austin,Nevada
+24,oct,58.1,36,0.63,10.59,0.91,52.52,Austin,Nevada
+25,oct,57.7,35.7,0.67,10.63,0.91,52.52,Austin,Nevada
+26,oct,57.2,35.5,0.71,10.67,0.98,52.6,Austin,Nevada
+27,oct,56.8,35.2,0.75,10.67,0.98,52.6,Austin,Nevada
+28,oct,56.4,34.9,0.75,10.71,1.1,52.72,Austin,Nevada
+29,oct,56,34.7,0.79,10.75,1.18,52.8,Austin,Nevada
+30,oct,55.6,34.4,0.83,10.79,1.3,52.91,Austin,Nevada
+31,oct,55.1,34.1,0.87,10.79,1.42,52.99,Austin,Nevada
+1,nov,54.7,33.8,0.04,10.83,0.12,53.11,Austin,Nevada
+2,nov,54.3,33.5,0.08,10.87,0.31,53.31,Austin,Nevada
+3,nov,53.8,33.2,0.08,10.91,0.51,53.5,Austin,Nevada
+4,nov,53.4,32.9,0.12,10.94,0.71,53.7,Austin,Nevada
+5,nov,53,32.6,0.16,10.94,0.79,53.82,Austin,Nevada
+6,nov,52.5,32.2,0.2,10.98,0.98,54.02,Austin,Nevada
+7,nov,52.1,31.9,0.24,11.02,1.18,54.21,Austin,Nevada
+8,nov,51.6,31.6,0.28,11.06,1.42,54.41,Austin,Nevada
+9,nov,51.2,31.2,0.31,11.1,1.69,54.69,Austin,Nevada
+10,nov,50.7,30.9,0.31,11.14,1.89,54.88,Austin,Nevada
+11,nov,50.3,30.5,0.35,11.18,2.09,55.12,Austin,Nevada
+12,nov,49.8,30.2,0.39,11.22,2.28,55.31,Austin,Nevada
+13,nov,49.4,29.8,0.43,11.22,2.6,55.59,Austin,Nevada
+14,nov,48.9,29.5,0.47,11.3,2.91,55.91,Austin,Nevada
+15,nov,48.4,29.1,0.51,11.34,3.19,56.18,Austin,Nevada
+16,nov,48,28.7,0.55,11.38,3.5,56.5,Austin,Nevada
+17,nov,47.5,28.4,0.59,11.42,3.82,56.81,Austin,Nevada
+18,nov,47.1,28,0.63,11.46,4.09,57.09,Austin,Nevada
+19,nov,46.6,27.6,0.67,11.5,4.41,57.4,Austin,Nevada
+20,nov,46.2,27.3,0.71,11.54,4.69,57.72,Austin,Nevada
+21,nov,45.8,26.9,0.75,11.57,5.12,58.11,Austin,Nevada
+22,nov,45.3,26.6,0.83,11.61,5.39,58.39,Austin,Nevada
+23,nov,44.9,26.2,0.87,11.65,5.71,58.7,Austin,Nevada
+24,nov,44.5,25.9,0.91,11.69,6.1,59.09,Austin,Nevada
+25,nov,44.1,25.5,0.91,11.73,6.3,59.29,Austin,Nevada
+26,nov,43.7,25.2,0.94,11.77,6.61,59.61,Austin,Nevada
+27,nov,43.3,24.9,0.98,11.81,6.89,59.88,Austin,Nevada
+28,nov,43,24.6,1.02,11.85,7.2,60.2,Austin,Nevada
+29,nov,42.6,24.3,1.06,11.85,7.52,60.51,Austin,Nevada
+30,nov,42.3,24,1.1,11.93,7.8,60.79,Austin,Nevada
+1,dec,41.9,23.8,0.04,11.97,0.2,60.98,Austin,Nevada
+2,dec,41.6,23.5,0.08,12.01,0.39,61.18,Austin,Nevada
+3,dec,41.3,23.3,0.12,12.01,0.59,61.42,Austin,Nevada
+4,dec,41,23.1,0.16,12.05,0.79,61.61,Austin,Nevada
+5,dec,40.8,22.9,0.2,12.09,0.98,61.81,Austin,Nevada
+6,dec,40.5,22.7,0.2,12.13,1.18,62.01,Austin,Nevada
+7,dec,40.3,22.5,0.24,12.17,1.42,62.2,Austin,Nevada
+8,dec,40.1,22.4,0.28,12.2,1.69,62.52,Austin,Nevada
+9,dec,39.9,22.3,0.31,12.2,1.89,62.72,Austin,Nevada
+10,dec,39.7,22.1,0.35,12.24,2.09,62.91,Austin,Nevada
+11,dec,39.6,22,0.39,12.28,2.28,63.11,Austin,Nevada
+12,dec,39.5,22,0.39,12.32,2.52,63.31,Austin,Nevada
+13,dec,39.3,21.9,0.43,12.32,2.72,63.5,Austin,Nevada
+14,dec,39.2,21.8,0.47,12.36,2.91,63.7,Austin,Nevada
+15,dec,39.2,21.8,0.47,12.4,2.99,63.82,Austin,Nevada
+16,dec,39.1,21.8,0.51,12.44,3.19,64.02,Austin,Nevada
+17,dec,39,21.8,0.55,12.44,3.5,64.29,Austin,Nevada
+18,dec,39,21.8,0.59,12.52,3.7,64.49,Austin,Nevada
+19,dec,39,21.8,0.63,12.52,3.9,64.69,Austin,Nevada
+20,dec,39,21.8,0.67,12.56,4.09,64.88,Austin,Nevada
+21,dec,39,21.9,0.71,12.6,4.41,65.2,Austin,Nevada
+22,dec,39,21.9,0.75,12.64,4.61,65.39,Austin,Nevada
+23,dec,39,22,0.79,12.68,4.88,65.71,Austin,Nevada
+24,dec,39.1,22,0.83,12.72,5.2,65.98,Austin,Nevada
+25,dec,39.1,22.1,0.87,12.76,5.51,66.3,Austin,Nevada
+26,dec,39.2,22.2,0.91,12.8,5.79,66.61,Austin,Nevada
+27,dec,39.3,22.3,0.94,12.83,6.1,66.89,Austin,Nevada
+28,dec,39.3,22.3,0.98,12.87,6.42,67.2,Austin,Nevada
+29,dec,39.4,22.4,1.02,12.91,6.69,67.52,Austin,Nevada
+30,dec,39.5,22.5,1.06,12.95,7.01,67.8,Austin,Nevada
+31,dec,39.6,22.6,1.1,12.99,7.28,68.11,Austin,Nevada
+1,jan,40.6,19.5,0.04,0.04,0.2,0.2,Battle Mountain,Nevada
+2,jan,40.6,19.6,0.08,0.08,0.39,0.39,Battle Mountain,Nevada
+3,jan,40.6,19.6,0.12,0.12,0.59,0.59,Battle Mountain,Nevada
+4,jan,40.6,19.6,0.12,0.12,0.79,0.79,Battle Mountain,Nevada
+5,jan,40.6,19.6,0.16,0.16,0.98,0.98,Battle Mountain,Nevada
+6,jan,40.6,19.7,0.2,0.2,1.18,1.18,Battle Mountain,Nevada
+7,jan,40.6,19.7,0.24,0.24,1.3,1.3,Battle Mountain,Nevada
+8,jan,40.7,19.8,0.28,0.28,1.5,1.5,Battle Mountain,Nevada
+9,jan,40.7,19.8,0.28,0.28,1.69,1.69,Battle Mountain,Nevada
+10,jan,40.7,19.9,0.31,0.31,1.89,1.89,Battle Mountain,Nevada
+11,jan,40.7,20,0.35,0.35,2.09,2.09,Battle Mountain,Nevada
+12,jan,40.8,20,0.39,0.39,2.28,2.28,Battle Mountain,Nevada
+13,jan,40.8,20.1,0.43,0.43,2.52,2.52,Battle Mountain,Nevada
+14,jan,40.9,20.2,0.43,0.43,2.72,2.72,Battle Mountain,Nevada
+15,jan,40.9,20.3,0.47,0.47,2.8,2.8,Battle Mountain,Nevada
+16,jan,41,20.4,0.51,0.51,2.99,2.99,Battle Mountain,Nevada
+17,jan,41,20.5,0.55,0.55,3.19,3.19,Battle Mountain,Nevada
+18,jan,41.1,20.6,0.55,0.55,3.39,3.39,Battle Mountain,Nevada
+19,jan,41.1,20.7,0.59,0.59,3.58,3.58,Battle Mountain,Nevada
+20,jan,41.2,20.8,0.63,0.63,3.7,3.7,Battle Mountain,Nevada
+21,jan,41.3,20.9,0.67,0.67,3.9,3.9,Battle Mountain,Nevada
+22,jan,41.4,21.1,0.67,0.67,4.09,4.09,Battle Mountain,Nevada
+23,jan,41.5,21.2,0.71,0.71,4.21,4.21,Battle Mountain,Nevada
+24,jan,41.6,21.3,0.75,0.75,4.41,4.41,Battle Mountain,Nevada
+25,jan,41.8,21.5,0.75,0.75,4.49,4.49,Battle Mountain,Nevada
+26,jan,41.9,21.6,0.79,0.79,4.69,4.69,Battle Mountain,Nevada
+27,jan,42,21.8,0.79,0.79,4.8,4.8,Battle Mountain,Nevada
+28,jan,42.2,21.9,0.83,0.83,5,5,Battle Mountain,Nevada
+29,jan,42.4,22.1,0.87,0.87,5.12,5.12,Battle Mountain,Nevada
+30,jan,42.6,22.2,0.87,0.87,5.31,5.31,Battle Mountain,Nevada
+31,jan,42.8,22.4,0.91,0.91,5.39,5.39,Battle Mountain,Nevada
+1,mar,53,28.7,0.04,1.65,0.12,8.82,Battle Mountain,Nevada
+2,mar,53.4,28.9,0.08,1.69,0.2,8.9,Battle Mountain,Nevada
+3,mar,53.8,29.1,0.08,1.69,0.31,9.02,Battle Mountain,Nevada
+4,mar,54.1,29.3,0.12,1.73,0.39,9.09,Battle Mountain,Nevada
+5,mar,54.5,29.5,0.16,1.77,0.51,9.21,Battle Mountain,Nevada
+6,mar,54.9,29.7,0.16,1.77,0.59,9.29,Battle Mountain,Nevada
+7,mar,55.2,29.9,0.2,1.81,0.71,9.41,Battle Mountain,Nevada
+8,mar,55.5,30,0.2,1.85,0.91,9.61,Battle Mountain,Nevada
+9,mar,55.8,30.2,0.24,1.85,0.98,9.69,Battle Mountain,Nevada
+10,mar,56.1,30.4,0.28,1.89,1.1,9.8,Battle Mountain,Nevada
+11,mar,56.4,30.6,0.28,1.93,1.18,9.88,Battle Mountain,Nevada
+12,mar,56.7,30.7,0.31,1.97,1.18,9.88,Battle Mountain,Nevada
+13,mar,57,30.9,0.35,1.97,1.3,10,Battle Mountain,Nevada
+14,mar,57.3,31,0.39,2.01,1.42,10.12,Battle Mountain,Nevada
+15,mar,57.5,31.2,0.39,2.05,1.5,10.2,Battle Mountain,Nevada
+16,mar,57.8,31.3,0.43,2.05,1.61,10.31,Battle Mountain,Nevada
+17,mar,58,31.4,0.47,2.09,1.69,10.39,Battle Mountain,Nevada
+18,mar,58.2,31.5,0.47,2.13,1.69,10.39,Battle Mountain,Nevada
+19,mar,58.4,31.7,0.51,2.13,1.81,10.51,Battle Mountain,Nevada
+20,mar,58.6,31.8,0.51,2.17,1.89,10.59,Battle Mountain,Nevada
+21,mar,58.8,31.9,0.55,2.2,2.01,10.71,Battle Mountain,Nevada
+22,mar,59,32,0.59,2.2,2.01,10.71,Battle Mountain,Nevada
+23,mar,59.2,32.1,0.63,2.24,2.09,10.79,Battle Mountain,Nevada
+24,mar,59.4,32.2,0.63,2.28,2.2,10.91,Battle Mountain,Nevada
+25,mar,59.6,32.3,0.67,2.28,2.2,10.91,Battle Mountain,Nevada
+26,mar,59.8,32.4,0.71,2.32,2.28,10.98,Battle Mountain,Nevada
+27,mar,59.9,32.5,0.75,2.36,2.4,11.1,Battle Mountain,Nevada
+28,mar,60.1,32.6,0.79,2.4,2.4,11.1,Battle Mountain,Nevada
+29,mar,60.3,32.7,0.79,2.44,2.52,11.18,Battle Mountain,Nevada
+30,mar,60.5,32.8,0.83,2.44,2.52,11.18,Battle Mountain,Nevada
+31,mar,60.6,32.9,0.87,2.48,2.6,11.3,Battle Mountain,Nevada

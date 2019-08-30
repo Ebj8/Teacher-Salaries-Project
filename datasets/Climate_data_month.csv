@@ -1,0 +1,52 @@
+"","State","City","max_high","min_low","max_precipitation","min_precipitation","max_days_with_precipitation","min_days_with_precipitation","max_hours_sunshine","min_hours_sunshine"
+"1","Alabama","Montgomery",92,36,5.94,2.91,NA,NA,NA,NA
+"2","Alaska","Anchorage",65,11,3.27,0.47,15,4,288,49
+"3","Arizona","Phoenix",106,45,1.06,0.04,5,1,404,236
+"4","Arkansas","Little Rock",93,32,5.28,2.6,11,6,351,166
+"5","California","Sacramento",92,38,3.62,0.04,NA,NA,NA,NA
+"6","Colorado","Denver",90,18,2.17,0.31,NA,NA,NA,NA
+"7","Connecticut","Bridgeport",82,23,4.13,2.8,NA,NA,NA,NA
+"8","Delaware","Dover",87,27,4.37,3.07,NA,NA,NA,NA
+"9","District of Columbia","Washington",87,27,4.88,2.48,12,8,226,66
+"10","Florida","Tallahassee",92,39,7.72,3.07,NA,NA,NA,NA
+"11","Georgia","Atlanta",90,34,5.28,3.35,NA,NA,NA,NA
+"12","Hawaii","Honolulu",89,66,3.23,0.28,15,11,293,202
+"13","Idaho","Boise",91,24,1.54,0.24,11,2,399,105
+"14","Illinois","Chicago",84,18,4.13,1.93,11,8,318,106
+"15","Indiana","Richmond",85,19,4.76,2.28,NA,NA,NA,NA
+"16","Iowa","Des Moines",86,14,4.92,0.91,12,7,337,130
+"17","Kansas","Topeka",89,20,5.39,0.87,NA,NA,NA,NA
+"18","Kentucky","Frankfort",87,21,4.61,2.68,NA,NA,NA,NA
+"19","Louisiana","New Orleans",91,45,7.91,3.54,13,6,279,151
+"20","Maine","Augusta",79,11,4.37,2.44,NA,NA,NA,NA
+"21","Maryland","Baltimore",89,29,4.61,2.6,11,8,291,145
+"22","Massachusetts","Boston",81,22,4.29,3.23,12,8,300,142
+"23","Michigan","Lansing",82,17,3.5,1.46,NA,NA,NA,NA
+"24","Minnesota","Saint Paul",85,7,4.76,0.67,NA,NA,NA,NA
+"25","Mississippi","Jackson",92,35,5.16,3.03,NA,NA,NA,NA
+"26","Missouri","Jefferson City",88,21,5.16,1.89,NA,NA,NA,NA
+"27","Montana","Helena",86,12,2.05,0.31,NA,NA,NA,NA
+"28","Nebraska","Omaha",88,12,4.45,0.79,12,6,331,133
+"29","Nevada","Carson City",90,22,1.57,0.2,NA,NA,NA,NA
+"30","New Hampshire","Concord",82,10,4.06,2.64,NA,NA,NA,NA
+"31","New Jersey","Newark",86,24,4.72,2.87,11,8,NA,NA
+"32","New Mexico","Santa Fe",86,17,2.32,0.51,NA,NA,NA,NA
+"33","New York","New York",85,26,4.53,2.95,12,8,302,154
+"34","North Carolina","Charlotte",89,30,4.21,3.03,NA,NA,NA,NA
+"35","North Dakota","Bismarck",85,2,3.19,0.43,NA,NA,NA,NA
+"36","Ohio","Columbus",85,20,9.65,1.65,13,8,NA,NA
+"37","Oklahoma","Oklahoma City",94,29,4.92,1.38,NA,NA,NA,NA
+"38","Oregon","Salem",82,34,6.85,0.43,NA,NA,NA,NA
+"39","Pennsylvania","Philadelphia",87,26,4.33,2.64,NA,NA,NA,NA
+"40","Rhode Island","Providence",83,21,11.46,5.79,12,8,291,147
+"41","South Carolina","Columbia",93,34,5.43,2.6,11,7,291,173
+"42","South Dakota","Columbia",84,0,3.58,0.43,NA,NA,NA,NA
+"43","Tennessee","Memphis",92,33,5.75,2.87,NA,NA,NA,NA
+"44","Texas","Austin",97,42,4.37,1.89,NA,NA,NA,NA
+"45","Utah","Salt Lake City",90,26,2.32,0.59,10,4,377,135
+"46","Vermont","Burlington",81,10,4.17,1.77,14,11,300,90
+"47","Virginia","Richmond",90,28,4.65,2.72,11,7,306,163
+"48","Washington","Seattle",76,36,6.54,0.67,18,4,312,52
+"49","West Virginia","Charleston",85,26,4.92,2.68,NA,NA,NA,NA
+"50","Wisconsin","Milwaukee",80,16,3.94,1.61,12,8,NA,NA
+"51","Wyoming","Cheyenne",83,17,2.32,0.31,12,4,316,176
